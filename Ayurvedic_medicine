@@ -1,0 +1,4754 @@
+[
+  {
+    "id": 1,
+    "name": "Abhayarishta",
+    "category": "Ayurvedic medicine",
+    "uses": "Used for liver detoxification and improving liver function.",
+    "timing": "10-20 ml with equal quantity of water, twice daily after meals.",
+    "side_effects": "Avoid during pregnancy and lactation unless prescribed."
+  },
+  {
+    "id": 2,
+    "name": "Ahiphenasava",
+    "category": "Ayurvedic medicine",
+    "uses": "Used in the treatment of piles and constipation.",
+    "timing": "10-20 ml with equal quantity of water, twice daily after meals.",
+    "side_effects": "Generally safe when used as prescribed."
+  },
+  {
+    "id": 3,
+    "name": "Amritarishta",
+    "category": "Ayurvedic medicine",
+    "uses": "Supports urinary health and kidney function.",
+    "timing": "Apply externally twice daily on the affected area.",
+    "side_effects": "Avoid during pregnancy and lactation unless prescribed."
+  },
+  {
+    "id": 4,
+    "name": "Arvindasava",
+    "category": "Ayurvedic medicine",
+    "uses": "Helps in managing fever and body aches.",
+    "timing": "Apply externally twice daily on the affected area.",
+    "side_effects": "Generally safe when used as prescribed."
+  },
+  {
+    "id": 5,
+    "name": "Ashokarishta",
+    "category": "Ayurvedic medicine",
+    "uses": "Effective in treating skin diseases and detoxification.",
+    "timing": "10-20 ml with equal quantity of water, twice daily after meals.",
+    "side_effects": "Not recommended for children without medical advice."
+  },
+  {
+    "id": 6,
+    "name": "Ashwagandharishta",
+    "category": "Ayurvedic medicine",
+    "uses": "Helps in managing fever and body aches.",
+    "timing": "1-2 tablets twice daily after meals with water.",
+    "side_effects": "Excessive use may cause loose stools."
+  },
+  {
+    "id": 7,
+    "name": "Ayaskriti",
+    "category": "Ayurvedic medicine",
+    "uses": "Effective in treating skin diseases and detoxification.",
+    "timing": "Apply externally twice daily on the affected area.",
+    "side_effects": "Generally safe when used as prescribed."
+  },
+  {
+    "id": 8,
+    "name": "Balarishta",
+    "category": "Ayurvedic medicine",
+    "uses": "Used in the treatment of piles and constipation.",
+    "timing": "Apply externally twice daily on the affected area.",
+    "side_effects": "Avoid during pregnancy and lactation unless prescribed."
+  },
+  {
+    "id": 9,
+    "name": "Chandanasava",
+    "category": "Ayurvedic medicine",
+    "uses": "Helps manage respiratory disorders and cough.",
+    "timing": "As directed by an Ayurvedic physician.",
+    "side_effects": "May cause mild gastric irritation in sensitive individuals."
+  },
+  {
+    "id": 10,
+    "name": "Dantadyarishta",
+    "category": "Ayurvedic medicine",
+    "uses": "Used to treat anemia and improve blood formation.",
+    "timing": "1-2 tablets twice daily after meals with water.",
+    "side_effects": "May cause mild gastric irritation in sensitive individuals."
+  },
+  {
+    "id": 11,
+    "name": "Dashmoolarishta",
+    "category": "Ayurvedic medicine",
+    "uses": "Supports urinary health and kidney function.",
+    "timing": "10-20 ml with equal quantity of water, twice daily after meals.",
+    "side_effects": "Avoid during pregnancy and lactation unless prescribed."
+  },
+  {
+    "id": 12,
+    "name": "Devadarvarishta",
+    "category": "Ayurvedic medicine",
+    "uses": "Effective in treating skin diseases and detoxification.",
+    "timing": "10-20 ml with equal quantity of water, twice daily after meals.",
+    "side_effects": "Generally safe when used as prescribed."
+  },
+  {
+    "id": 13,
+    "name": "Draksharishta",
+    "category": "Ayurvedic medicine",
+    "uses": "Helps in managing fever and body aches.",
+    "timing": "As directed by an Ayurvedic physician.",
+    "side_effects": "May cause mild gastric irritation in sensitive individuals."
+  },
+  {
+    "id": 14,
+    "name": "Drakshasava",
+    "category": "Ayurvedic medicine",
+    "uses": "Improves strength and stamina; rejuvenates body tissues.",
+    "timing": "Apply externally twice daily on the affected area.",
+    "side_effects": "May cause mild gastric irritation in sensitive individuals."
+  },
+  {
+    "id": 15,
+    "name": "Jeerkadyarishta",
+    "category": "Ayurvedic medicine",
+    "uses": "Improves strength and stamina; rejuvenates body tissues.",
+    "timing": "Apply externally twice daily on the affected area.",
+    "side_effects": "Avoid during pregnancy and lactation unless prescribed."
+  },
+  {
+    "id": 16,
+    "name": "Kanakasava",
+    "category": "Ayurvedic medicine",
+    "uses": "Strengthens the nervous system and boosts memory.",
+    "timing": "Apply externally twice daily on the affected area.",
+    "side_effects": "May cause mild gastric irritation in sensitive individuals."
+  },
+  {
+    "id": 17,
+    "name": "Karpurasava",
+    "category": "Ayurvedic medicine",
+    "uses": "Helps in managing fever and body aches.",
+    "timing": "Apply externally twice daily on the affected area.",
+    "side_effects": "May cause mild gastric irritation in sensitive individuals."
+  },
+  {
+    "id": 18,
+    "name": "Khadirarishta",
+    "category": "Ayurvedic medicine",
+    "uses": "Improves strength and stamina; rejuvenates body tissues.",
+    "timing": "As directed by an Ayurvedic physician.",
+    "side_effects": "Generally safe when used as prescribed."
+  },
+  {
+    "id": 19,
+    "name": "Kumaryasava (A)",
+    "category": "Ayurvedic medicine",
+    "uses": "Supports digestion and improves appetite.",
+    "timing": "As directed by an Ayurvedic physician.",
+    "side_effects": "Not recommended for children without medical advice."
+  },
+  {
+    "id": 20,
+    "name": "Kumaryasava (B)",
+    "category": "Ayurvedic medicine",
+    "uses": "Used for liver detoxification and improving liver function.",
+    "timing": "5-10 grams with warm water or milk, once or twice daily.",
+    "side_effects": "May cause mild gastric irritation in sensitive individuals."
+  },
+  {
+    "id": 21,
+    "name": "Kutajarishta",
+    "category": "Ayurvedic medicine",
+    "uses": "Supports digestion and improves appetite.",
+    "timing": "Apply externally twice daily on the affected area.",
+    "side_effects": "Excessive use may cause loose stools."
+  },
+  {
+    "id": 22,
+    "name": "Lohasava",
+    "category": "Ayurvedic medicine",
+    "uses": "Helps manage respiratory disorders and cough.",
+    "timing": "10-20 ml with equal quantity of water, twice daily after meals.",
+    "side_effects": "Generally safe when used as prescribed."
+  },
+  {
+    "id": 23,
+    "name": "Madhukasava",
+    "category": "Ayurvedic medicine",
+    "uses": "Effective in treating skin diseases and detoxification.",
+    "timing": "1-2 tablets twice daily after meals with water.",
+    "side_effects": "May cause mild gastric irritation in sensitive individuals."
+  },
+  {
+    "id": 24,
+    "name": "Mridvikarishta",
+    "category": "Ayurvedic medicine",
+    "uses": "Used to treat anemia and improve blood formation.",
+    "timing": "5-10 grams with warm water or milk, once or twice daily.",
+    "side_effects": "May cause mild gastric irritation in sensitive individuals."
+  },
+  {
+    "id": 25,
+    "name": "Mustakarishta",
+    "category": "Ayurvedic medicine",
+    "uses": "Helps manage respiratory disorders and cough.",
+    "timing": "1-2 tablets twice daily after meals with water.",
+    "side_effects": "Not recommended for children without medical advice."
+  },
+  {
+    "id": 26,
+    "name": "Parthadyarishta(Arjunarishta)",
+    "category": "Ayurvedic medicine",
+    "uses": "Used for liver detoxification and improving liver function.",
+    "timing": "Apply externally twice daily on the affected area.",
+    "side_effects": "May cause mild gastric irritation in sensitive individuals."
+  },
+  {
+    "id": 27,
+    "name": "Pippaladyarishta",
+    "category": "Ayurvedic medicine",
+    "uses": "Used to treat anemia and improve blood formation.",
+    "timing": "10-20 ml with equal quantity of water, twice daily after meals.",
+    "side_effects": "Not recommended for children without medical advice."
+  },
+  {
+    "id": 28,
+    "name": "Punarnavasava",
+    "category": "Ayurvedic medicine",
+    "uses": "Helps in managing fever and body aches.",
+    "timing": "5-10 grams with warm water or milk, once or twice daily.",
+    "side_effects": "Generally safe when used as prescribed."
+  },
+  {
+    "id": 29,
+    "name": "Rodhrasava (Lodhrasava)",
+    "category": "Ayurvedic medicine",
+    "uses": "Effective in treating skin diseases and detoxification.",
+    "timing": "1-2 tablets twice daily after meals with water.",
+    "side_effects": "May cause mild gastric irritation in sensitive individuals."
+  },
+  {
+    "id": 30,
+    "name": "Rohitakarishta",
+    "category": "Ayurvedic medicine",
+    "uses": "Supports digestion and improves appetite.",
+    "timing": "Apply externally twice daily on the affected area.",
+    "side_effects": "Not recommended for children without medical advice."
+  },
+  {
+    "id": 31,
+    "name": "Saraswatarishta",
+    "category": "Ayurvedic medicine",
+    "uses": "Supports digestion and improves appetite.",
+    "timing": "1-2 tablets twice daily after meals with water.",
+    "side_effects": "Excessive use may cause loose stools."
+  },
+  {
+    "id": 32,
+    "name": "Sharivadyasava",
+    "category": "Ayurvedic medicine",
+    "uses": "Supports urinary health and kidney function.",
+    "timing": "Apply externally twice daily on the affected area.",
+    "side_effects": "Avoid during pregnancy and lactation unless prescribed."
+  },
+  {
+    "id": 33,
+    "name": "Shrikhandasava",
+    "category": "Ayurvedic medicine",
+    "uses": "Strengthens the nervous system and boosts memory.",
+    "timing": "As directed by an Ayurvedic physician.",
+    "side_effects": "Generally safe when used as prescribed."
+  },
+  {
+    "id": 34,
+    "name": "Usheerasava",
+    "category": "Ayurvedic medicine",
+    "uses": "Supports urinary health and kidney function.",
+    "timing": "5-10 grams with warm water or milk, once or twice daily.",
+    "side_effects": "Excessive use may cause loose stools."
+  },
+  {
+    "id": 35,
+    "name": "Vasakasava",
+    "category": "Ayurvedic medicine",
+    "uses": "Supports urinary health and kidney function.",
+    "timing": "5-10 grams with warm water or milk, once or twice daily.",
+    "side_effects": "Generally safe when used as prescribed."
+  },
+  {
+    "id": 36,
+    "name": "Vidangarishta",
+    "category": "Ayurvedic medicine",
+    "uses": "Helps manage respiratory disorders and cough.",
+    "timing": "5-10 grams with warm water or milk, once or twice daily.",
+    "side_effects": "Not recommended for children without medical advice."
+  },
+  {
+    "id": 37,
+    "name": "Ajmodark",
+    "category": "Ayurvedic medicine",
+    "uses": "Strengthens the nervous system and boosts memory.",
+    "timing": "5-10 grams with warm water or milk, once or twice daily.",
+    "side_effects": "Excessive use may cause loose stools."
+  },
+  {
+    "id": 38,
+    "name": "Arka Pudina",
+    "category": "Ayurvedic medicine",
+    "uses": "Supports digestion and improves appetite.",
+    "timing": "5-10 grams with warm water or milk, once or twice daily.",
+    "side_effects": "Excessive use may cause loose stools."
+  },
+  {
+    "id": 39,
+    "name": "Jatamansyarka",
+    "category": "Ayurvedic medicine",
+    "uses": "Helps manage respiratory disorders and cough.",
+    "timing": "5-10 grams with warm water or milk, once or twice daily.",
+    "side_effects": "Generally safe when used as prescribed."
+  },
+  {
+    "id": 40,
+    "name": "Karpuradyarka (Sugandhigyark)",
+    "category": "Ayurvedic medicine",
+    "uses": "Used to treat anemia and improve blood formation.",
+    "timing": "5-10 grams with warm water or milk, once or twice daily.",
+    "side_effects": "Excessive use may cause loose stools."
+  },
+  {
+    "id": 41,
+    "name": "Shatpushparka",
+    "category": "Ayurvedic medicine",
+    "uses": "Used to treat anemia and improve blood formation.",
+    "timing": "5-10 grams with warm water or milk, once or twice daily.",
+    "side_effects": "Not recommended for children without medical advice."
+  },
+  {
+    "id": 42,
+    "name": "Agastya haritaki Rasayan",
+    "category": "Ayurvedic medicine",
+    "uses": "Used to treat anemia and improve blood formation.",
+    "timing": "10-20 ml with equal quantity of water, twice daily after meals.",
+    "side_effects": "Not recommended for children without medical advice."
+  },
+  {
+    "id": 43,
+    "name": "Bhallatkadi Modak",
+    "category": "Ayurvedic medicine",
+    "uses": "Used to treat anemia and improve blood formation.",
+    "timing": "10-20 ml with equal quantity of water, twice daily after meals.",
+    "side_effects": "Excessive use may cause loose stools."
+  },
+  {
+    "id": 44,
+    "name": "Bhargi Gud",
+    "category": "Ayurvedic medicine",
+    "uses": "Used to treat anemia and improve blood formation.",
+    "timing": "As directed by an Ayurvedic physician.",
+    "side_effects": "Avoid during pregnancy and lactation unless prescribed."
+  },
+  {
+    "id": 45,
+    "name": "Bilvadi Leha",
+    "category": "Ayurvedic medicine",
+    "uses": "Strengthens the nervous system and boosts memory.",
+    "timing": "10-20 ml with equal quantity of water, twice daily after meals.",
+    "side_effects": "May cause mild gastric irritation in sensitive individuals."
+  },
+  {
+    "id": 46,
+    "name": "Brahm Rasayan",
+    "category": "Ayurvedic medicine",
+    "uses": "Supports digestion and improves appetite.",
+    "timing": "5-10 grams with warm water or milk, once or twice daily.",
+    "side_effects": "Excessive use may cause loose stools."
+  },
+  {
+    "id": 47,
+    "name": "Chitrak Haritaki",
+    "category": "Ayurvedic medicine",
+    "uses": "Improves strength and stamina; rejuvenates body tissues.",
+    "timing": "5-10 grams with warm water or milk, once or twice daily.",
+    "side_effects": "Not recommended for children without medical advice."
+  },
+  {
+    "id": 48,
+    "name": "Chyavanprash",
+    "category": "Ayurvedic medicine",
+    "uses": "Helps in managing fever and body aches.",
+    "timing": "Apply externally twice daily on the affected area.",
+    "side_effects": "Generally safe when used as prescribed."
+  },
+  {
+    "id": 49,
+    "name": "Danti Haritaki",
+    "category": "Ayurvedic medicine",
+    "uses": "Strengthens the nervous system and boosts memory.",
+    "timing": "Apply externally twice daily on the affected area.",
+    "side_effects": "Not recommended for children without medical advice."
+  },
+  {
+    "id": 50,
+    "name": "Dashmool haritaki",
+    "category": "Ayurvedic medicine",
+    "uses": "Supports digestion and improves appetite.",
+    "timing": "5-10 grams with warm water or milk, once or twice daily.",
+    "side_effects": "Excessive use may cause loose stools."
+  },
+  {
+    "id": 51,
+    "name": "Drakshavaleha",
+    "category": "Ayurvedic medicine",
+    "uses": "Effective in treating skin diseases and detoxification.",
+    "timing": "5-10 grams with warm water or milk, once or twice daily.",
+    "side_effects": "Excessive use may cause loose stools."
+  },
+  {
+    "id": 52,
+    "name": "Eladya Modak",
+    "category": "Ayurvedic medicine",
+    "uses": "Used for liver detoxification and improving liver function.",
+    "timing": "1-2 tablets twice daily after meals with water.",
+    "side_effects": "May cause mild gastric irritation in sensitive individuals."
+  },
+  {
+    "id": 53,
+    "name": "Gud Pippali",
+    "category": "Ayurvedic medicine",
+    "uses": "Effective in treating skin diseases and detoxification.",
+    "timing": "10-20 ml with equal quantity of water, twice daily after meals.",
+    "side_effects": "Generally safe when used as prescribed."
+  },
+  {
+    "id": 54,
+    "name": "Giduchyadi Modak",
+    "category": "Ayurvedic medicine",
+    "uses": "Used to treat anemia and improve blood formation.",
+    "timing": "5-10 grams with warm water or milk, once or twice daily.",
+    "side_effects": "Not recommended for children without medical advice."
+  },
+  {
+    "id": 55,
+    "name": "Haridrakhand",
+    "category": "Ayurvedic medicine",
+    "uses": "Helps manage respiratory disorders and cough.",
+    "timing": "10-20 ml with equal quantity of water, twice daily after meals.",
+    "side_effects": "Excessive use may cause loose stools."
+  },
+  {
+    "id": 56,
+    "name": "Haridavavirechan Leha",
+    "category": "Ayurvedic medicine",
+    "uses": "Used in the treatment of piles and constipation.",
+    "timing": "1-2 tablets twice daily after meals with water.",
+    "side_effects": "Generally safe when used as prescribed."
+  },
+  {
+    "id": 57,
+    "name": "Jeerakadi Modak",
+    "category": "Ayurvedic medicine",
+    "uses": "Used in the treatment of piles and constipation.",
+    "timing": "10-20 ml with equal quantity of water, twice daily after meals.",
+    "side_effects": "Excessive use may cause loose stools."
+  },
+  {
+    "id": 58,
+    "name": "Kalyanka Gud",
+    "category": "Ayurvedic medicine",
+    "uses": "Helps in managing fever and body aches.",
+    "timing": "5-10 grams with warm water or milk, once or twice daily.",
+    "side_effects": "Generally safe when used as prescribed."
+  },
+  {
+    "id": 59,
+    "name": "Kantakaryavaleha",
+    "category": "Ayurvedic medicine",
+    "uses": "Supports digestion and improves appetite.",
+    "timing": "10-20 ml with equal quantity of water, twice daily after meals.",
+    "side_effects": "Not recommended for children without medical advice."
+  },
+  {
+    "id": 60,
+    "name": "Kooshmandak Rasayan",
+    "category": "Ayurvedic medicine",
+    "uses": "Supports urinary health and kidney function.",
+    "timing": "5-10 grams with warm water or milk, once or twice daily.",
+    "side_effects": "May cause mild gastric irritation in sensitive individuals."
+  },
+  {
+    "id": 61,
+    "name": "Kutajavaleha",
+    "category": "Ayurvedic medicine",
+    "uses": "Used to treat anemia and improve blood formation.",
+    "timing": "1-2 tablets twice daily after meals with water.",
+    "side_effects": "Excessive use may cause loose stools."
+  },
+  {
+    "id": 62,
+    "name": "Laghuchinchadik Leha",
+    "category": "Ayurvedic medicine",
+    "uses": "Used for liver detoxification and improving liver function.",
+    "timing": "5-10 grams with warm water or milk, once or twice daily.",
+    "side_effects": "Not recommended for children without medical advice."
+  },
+  {
+    "id": 63,
+    "name": "Madhusnuhi Rasayan",
+    "category": "Ayurvedic medicine",
+    "uses": "Improves strength and stamina; rejuvenates body tissues.",
+    "timing": "10-20 ml with equal quantity of water, twice daily after meals.",
+    "side_effects": "Not recommended for children without medical advice."
+  },
+  {
+    "id": 64,
+    "name": "Manibhadra Yog (Manibhadra Gud)",
+    "category": "Ayurvedic medicine",
+    "uses": "Used for liver detoxification and improving liver function.",
+    "timing": "5-10 grams with warm water or milk, once or twice daily.",
+    "side_effects": "Avoid during pregnancy and lactation unless prescribed."
+  },
+  {
+    "id": 65,
+    "name": "Mridvikadi Leha",
+    "category": "Ayurvedic medicine",
+    "uses": "Supports digestion and improves appetite.",
+    "timing": "5-10 grams with warm water or milk, once or twice daily.",
+    "side_effects": "Not recommended for children without medical advice."
+  },
+  {
+    "id": 66,
+    "name": "Narikehkhand",
+    "category": "Ayurvedic medicine",
+    "uses": "Strengthens the nervous system and boosts memory.",
+    "timing": "5-10 grams with warm water or milk, once or twice daily.",
+    "side_effects": "May cause mild gastric irritation in sensitive individuals."
+  },
+  {
+    "id": 67,
+    "name": "Pugakhand",
+    "category": "Ayurvedic medicine",
+    "uses": "Used for liver detoxification and improving liver function.",
+    "timing": "10-20 ml with equal quantity of water, twice daily after meals.",
+    "side_effects": "May cause mild gastric irritation in sensitive individuals."
+  },
+  {
+    "id": 68,
+    "name": "Saubhagya Shunthi",
+    "category": "Ayurvedic medicine",
+    "uses": "Used for liver detoxification and improving liver function.",
+    "timing": "10-20 ml with equal quantity of water, twice daily after meals.",
+    "side_effects": "Not recommended for children without medical advice."
+  },
+  {
+    "id": 69,
+    "name": "Shatavari Gud",
+    "category": "Ayurvedic medicine",
+    "uses": "Helps manage respiratory disorders and cough.",
+    "timing": "5-10 grams with warm water or milk, once or twice daily.",
+    "side_effects": "Avoid during pregnancy and lactation unless prescribed."
+  },
+  {
+    "id": 70,
+    "name": "Shiv Gutika",
+    "category": "Ayurvedic medicine",
+    "uses": "Used to treat anemia and improve blood formation.",
+    "timing": "Apply externally twice daily on the affected area.",
+    "side_effects": "Avoid during pregnancy and lactation unless prescribed."
+  },
+  {
+    "id": 71,
+    "name": "Suranavaleha",
+    "category": "Ayurvedic medicine",
+    "uses": "Used to treat anemia and improve blood formation.",
+    "timing": "As directed by an Ayurvedic physician.",
+    "side_effects": "Avoid during pregnancy and lactation unless prescribed."
+  },
+  {
+    "id": 72,
+    "name": "Vasavaleha",
+    "category": "Ayurvedic medicine",
+    "uses": "Supports digestion and improves appetite.",
+    "timing": "As directed by an Ayurvedic physician.",
+    "side_effects": "Generally safe when used as prescribed."
+  },
+  {
+    "id": 73,
+    "name": "Amritottara",
+    "category": "Ayurvedic medicine",
+    "uses": "Helps manage respiratory disorders and cough.",
+    "timing": "As directed by an Ayurvedic physician.",
+    "side_effects": "May cause mild gastric irritation in sensitive individuals."
+  },
+  {
+    "id": 74,
+    "name": "Aragwadhadi",
+    "category": "Ayurvedic medicine",
+    "uses": "Effective in treating skin diseases and detoxification.",
+    "timing": "10-20 ml with equal quantity of water, twice daily after meals.",
+    "side_effects": "Generally safe when used as prescribed."
+  },
+  {
+    "id": 75,
+    "name": "Ardhavilva",
+    "category": "Ayurvedic medicine",
+    "uses": "Used in the treatment of piles and constipation.",
+    "timing": "As directed by an Ayurvedic physician.",
+    "side_effects": "Avoid during pregnancy and lactation unless prescribed."
+  },
+  {
+    "id": 76,
+    "name": "Ashtavarga",
+    "category": "Ayurvedic medicine",
+    "uses": "Supports digestion and improves appetite.",
+    "timing": "As directed by an Ayurvedic physician.",
+    "side_effects": "May cause mild gastric irritation in sensitive individuals."
+  },
+  {
+    "id": 77,
+    "name": "Baljeerakadi",
+    "category": "Ayurvedic medicine",
+    "uses": "Used in the treatment of piles and constipation.",
+    "timing": "10-20 ml with equal quantity of water, twice daily after meals.",
+    "side_effects": "Generally safe when used as prescribed."
+  },
+  {
+    "id": 78,
+    "name": "Bharangyadi",
+    "category": "Ayurvedic medicine",
+    "uses": "Effective in treating skin diseases and detoxification.",
+    "timing": "5-10 grams with warm water or milk, once or twice daily.",
+    "side_effects": "Generally safe when used as prescribed."
+  },
+  {
+    "id": 79,
+    "name": "Brahat Manjisthadi",
+    "category": "Ayurvedic medicine",
+    "uses": "Improves strength and stamina; rejuvenates body tissues.",
+    "timing": "10-20 ml with equal quantity of water, twice daily after meals.",
+    "side_effects": "Generally safe when used as prescribed."
+  },
+  {
+    "id": 80,
+    "name": "Chaturbhadra",
+    "category": "Ayurvedic medicine",
+    "uses": "Strengthens the nervous system and boosts memory.",
+    "timing": "5-10 grams with warm water or milk, once or twice daily.",
+    "side_effects": "May cause mild gastric irritation in sensitive individuals."
+  },
+  {
+    "id": 81,
+    "name": "Chhinnobhavadi",
+    "category": "Ayurvedic medicine",
+    "uses": "Supports digestion and improves appetite.",
+    "timing": "10-20 ml with equal quantity of water, twice daily after meals.",
+    "side_effects": "May cause mild gastric irritation in sensitive individuals."
+  },
+  {
+    "id": 82,
+    "name": "Dashmoola",
+    "category": "Ayurvedic medicine",
+    "uses": "Used to treat anemia and improve blood formation.",
+    "timing": "Apply externally twice daily on the affected area.",
+    "side_effects": "May cause mild gastric irritation in sensitive individuals."
+  },
+  {
+    "id": 83,
+    "name": "Dashmoola Panchkoladi",
+    "category": "Ayurvedic medicine",
+    "uses": "Helps in managing fever and body aches.",
+    "timing": "5-10 grams with warm water or milk, once or twice daily.",
+    "side_effects": "Not recommended for children without medical advice."
+  },
+  {
+    "id": 84,
+    "name": "Dashmoolkatutraya",
+    "category": "Ayurvedic medicine",
+    "uses": "Effective in treating skin diseases and detoxification.",
+    "timing": "1-2 tablets twice daily after meals with water.",
+    "side_effects": "Excessive use may cause loose stools."
+  },
+  {
+    "id": 85,
+    "name": "Dasnagaradi",
+    "category": "Ayurvedic medicine",
+    "uses": "Used for liver detoxification and improving liver function.",
+    "timing": "1-2 tablets twice daily after meals with water.",
+    "side_effects": "Avoid during pregnancy and lactation unless prescribed."
+  },
+  {
+    "id": 86,
+    "name": "Drakshadi",
+    "category": "Ayurvedic medicine",
+    "uses": "Supports urinary health and kidney function.",
+    "timing": "Apply externally twice daily on the affected area.",
+    "side_effects": "May cause mild gastric irritation in sensitive individuals."
+  },
+  {
+    "id": 87,
+    "name": "Gandharva Hastadi",
+    "category": "Ayurvedic medicine",
+    "uses": "Supports urinary health and kidney function.",
+    "timing": "As directed by an Ayurvedic physician.",
+    "side_effects": "Excessive use may cause loose stools."
+  },
+  {
+    "id": 88,
+    "name": "Gijihvadi",
+    "category": "Ayurvedic medicine",
+    "uses": "Improves strength and stamina; rejuvenates body tissues.",
+    "timing": "1-2 tablets twice daily after meals with water.",
+    "side_effects": "Not recommended for children without medical advice."
+  },
+  {
+    "id": 89,
+    "name": "Mustakaranjadi",
+    "category": "Ayurvedic medicine",
+    "uses": "Strengthens the nervous system and boosts memory.",
+    "timing": "10-20 ml with equal quantity of water, twice daily after meals.",
+    "side_effects": "Excessive use may cause loose stools."
+  },
+  {
+    "id": 90,
+    "name": "Nayopayam",
+    "category": "Ayurvedic medicine",
+    "uses": "Effective in treating skin diseases and detoxification.",
+    "timing": "5-10 grams with warm water or milk, once or twice daily.",
+    "side_effects": "Avoid during pregnancy and lactation unless prescribed."
+  },
+  {
+    "id": 91,
+    "name": "Nimbadi",
+    "category": "Ayurvedic medicine",
+    "uses": "Used for liver detoxification and improving liver function.",
+    "timing": "5-10 grams with warm water or milk, once or twice daily.",
+    "side_effects": "Excessive use may cause loose stools."
+  },
+  {
+    "id": 92,
+    "name": "Nyagrodhyadi",
+    "category": "Ayurvedic medicine",
+    "uses": "Used to treat anemia and improve blood formation.",
+    "timing": "10-20 ml with equal quantity of water, twice daily after meals.",
+    "side_effects": "Not recommended for children without medical advice."
+  },
+  {
+    "id": 93,
+    "name": "Panchvalkal",
+    "category": "Ayurvedic medicine",
+    "uses": "Used for liver detoxification and improving liver function.",
+    "timing": "10-20 ml with equal quantity of water, twice daily after meals.",
+    "side_effects": "Avoid during pregnancy and lactation unless prescribed."
+  },
+  {
+    "id": 94,
+    "name": "Panchnamrita",
+    "category": "Ayurvedic medicine",
+    "uses": "Used for liver detoxification and improving liver function.",
+    "timing": "1-2 tablets twice daily after meals with water.",
+    "side_effects": "May cause mild gastric irritation in sensitive individuals."
+  },
+  {
+    "id": 95,
+    "name": "Panchtikta",
+    "category": "Ayurvedic medicine",
+    "uses": "Improves strength and stamina; rejuvenates body tissues.",
+    "timing": "1-2 tablets twice daily after meals with water.",
+    "side_effects": "May cause mild gastric irritation in sensitive individuals."
+  },
+  {
+    "id": 96,
+    "name": "Pashanbhedi",
+    "category": "Ayurvedic medicine",
+    "uses": "Helps manage respiratory disorders and cough.",
+    "timing": "Apply externally twice daily on the affected area.",
+    "side_effects": "Not recommended for children without medical advice."
+  },
+  {
+    "id": 97,
+    "name": "Patoladi",
+    "category": "Ayurvedic medicine",
+    "uses": "Improves strength and stamina; rejuvenates body tissues.",
+    "timing": "Apply externally twice daily on the affected area.",
+    "side_effects": "Excessive use may cause loose stools."
+  },
+  {
+    "id": 98,
+    "name": "Patolmooladi",
+    "category": "Ayurvedic medicine",
+    "uses": "Strengthens the nervous system and boosts memory.",
+    "timing": "10-20 ml with equal quantity of water, twice daily after meals.",
+    "side_effects": "Excessive use may cause loose stools."
+  },
+  {
+    "id": 99,
+    "name": "Phaltrikadi",
+    "category": "Ayurvedic medicine",
+    "uses": "Improves strength and stamina; rejuvenates body tissues.",
+    "timing": "1-2 tablets twice daily after meals with water.",
+    "side_effects": "Avoid during pregnancy and lactation unless prescribed."
+  },
+  {
+    "id": 100,
+    "name": "Punarnavadi",
+    "category": "Ayurvedic medicine",
+    "uses": "Helps manage respiratory disorders and cough.",
+    "timing": "5-10 grams with warm water or milk, once or twice daily.",
+    "side_effects": "Excessive use may cause loose stools."
+  },
+  {
+    "id": 101,
+    "name": "punarnvashtak",
+    "category": "Ayurvedic medicine",
+    "uses": "Supports urinary health and kidney function.",
+    "timing": "Apply externally twice daily on the affected area.",
+    "side_effects": "Excessive use may cause loose stools."
+  },
+  {
+    "id": 102,
+    "name": "Rasanadi",
+    "category": "Ayurvedic medicine",
+    "uses": "Used to treat anemia and improve blood formation.",
+    "timing": "1-2 tablets twice daily after meals with water.",
+    "side_effects": "Generally safe when used as prescribed."
+  },
+  {
+    "id": 103,
+    "name": "Rasanadi (Maha)",
+    "category": "Ayurvedic medicine",
+    "uses": "Used for liver detoxification and improving liver function.",
+    "timing": "10-20 ml with equal quantity of water, twice daily after meals.",
+    "side_effects": "Avoid during pregnancy and lactation unless prescribed."
+  },
+  {
+    "id": 104,
+    "name": "Rasanerandadi",
+    "category": "Ayurvedic medicine",
+    "uses": "Used to treat anemia and improve blood formation.",
+    "timing": "10-20 ml with equal quantity of water, twice daily after meals.",
+    "side_effects": "Avoid during pregnancy and lactation unless prescribed."
+  },
+  {
+    "id": 105,
+    "name": "Rasnasaptak",
+    "category": "Ayurvedic medicine",
+    "uses": "Supports digestion and improves appetite.",
+    "timing": "10-20 ml with equal quantity of water, twice daily after meals.",
+    "side_effects": "May cause mild gastric irritation in sensitive individuals."
+  },
+  {
+    "id": 106,
+    "name": "Saptsara",
+    "category": "Ayurvedic medicine",
+    "uses": "Used in the treatment of piles and constipation.",
+    "timing": "As directed by an Ayurvedic physician.",
+    "side_effects": "Avoid during pregnancy and lactation unless prescribed."
+  },
+  {
+    "id": 107,
+    "name": "Shadanga",
+    "category": "Ayurvedic medicine",
+    "uses": "Helps in managing fever and body aches.",
+    "timing": "Apply externally twice daily on the affected area.",
+    "side_effects": "May cause mild gastric irritation in sensitive individuals."
+  },
+  {
+    "id": 108,
+    "name": "Triyantyadi",
+    "category": "Ayurvedic medicine",
+    "uses": "Supports digestion and improves appetite.",
+    "timing": "Apply externally twice daily on the affected area.",
+    "side_effects": "Generally safe when used as prescribed."
+  },
+  {
+    "id": 109,
+    "name": "Trinpanchmoola",
+    "category": "Ayurvedic medicine",
+    "uses": "Helps manage respiratory disorders and cough.",
+    "timing": "10-20 ml with equal quantity of water, twice daily after meals.",
+    "side_effects": "Excessive use may cause loose stools."
+  },
+  {
+    "id": 110,
+    "name": "Vasaguduchyadi",
+    "category": "Ayurvedic medicine",
+    "uses": "Effective in treating skin diseases and detoxification.",
+    "timing": "1-2 tablets twice daily after meals with water.",
+    "side_effects": "Excessive use may cause loose stools."
+  },
+  {
+    "id": 111,
+    "name": "Vidaryadi",
+    "category": "Ayurvedic medicine",
+    "uses": "Improves strength and stamina; rejuvenates body tissues.",
+    "timing": "Apply externally twice daily on the affected area.",
+    "side_effects": "Not recommended for children without medical advice."
+  },
+  {
+    "id": 112,
+    "name": "Varunadi Kwath Churna",
+    "category": "Ayurvedic medicine",
+    "uses": "Effective in treating skin diseases and detoxification.",
+    "timing": "10-20 ml with equal quantity of water, twice daily after meals.",
+    "side_effects": "Excessive use may cause loose stools."
+  },
+  {
+    "id": 113,
+    "name": "Amrita",
+    "category": "Ayurvedic medicine",
+    "uses": "Effective in treating skin diseases and detoxification.",
+    "timing": "10-20 ml with equal quantity of water, twice daily after meals.",
+    "side_effects": "May cause mild gastric irritation in sensitive individuals."
+  },
+  {
+    "id": 114,
+    "name": "Amrita Bhallat Leha (Pak)",
+    "category": "Ayurvedic medicine",
+    "uses": "Improves strength and stamina; rejuvenates body tissues.",
+    "timing": "5-10 grams with warm water or milk, once or twice daily.",
+    "side_effects": "May cause mild gastric irritation in sensitive individuals."
+  },
+  {
+    "id": 115,
+    "name": "Amritaprash",
+    "category": "Ayurvedic medicine",
+    "uses": "Helps manage respiratory disorders and cough.",
+    "timing": "10-20 ml with equal quantity of water, twice daily after meals.",
+    "side_effects": "Avoid during pregnancy and lactation unless prescribed."
+  },
+  {
+    "id": 116,
+    "name": "Ashoka",
+    "category": "Ayurvedic medicine",
+    "uses": "Helps manage respiratory disorders and cough.",
+    "timing": "5-10 grams with warm water or milk, once or twice daily.",
+    "side_effects": "Generally safe when used as prescribed."
+  },
+  {
+    "id": 117,
+    "name": "Bastyamayantak",
+    "category": "Ayurvedic medicine",
+    "uses": "Helps in managing fever and body aches.",
+    "timing": "5-10 grams with warm water or milk, once or twice daily.",
+    "side_effects": "Generally safe when used as prescribed."
+  },
+  {
+    "id": 118,
+    "name": "Bazrak",
+    "category": "Ayurvedic medicine",
+    "uses": "Used for liver detoxification and improving liver function.",
+    "timing": "5-10 grams with warm water or milk, once or twice daily.",
+    "side_effects": "Excessive use may cause loose stools."
+  },
+  {
+    "id": 119,
+    "name": "Traikantak",
+    "category": "Ayurvedic medicine",
+    "uses": "Helps manage respiratory disorders and cough.",
+    "timing": "5-10 grams with warm water or milk, once or twice daily.",
+    "side_effects": "Generally safe when used as prescribed."
+  },
+  {
+    "id": 120,
+    "name": "Br. Phal",
+    "category": "Ayurvedic medicine",
+    "uses": "Effective in treating skin diseases and detoxification.",
+    "timing": "10-20 ml with equal quantity of water, twice daily after meals.",
+    "side_effects": "May cause mild gastric irritation in sensitive individuals."
+  },
+  {
+    "id": 121,
+    "name": "Brahmi",
+    "category": "Ayurvedic medicine",
+    "uses": "Effective in treating skin diseases and detoxification.",
+    "timing": "Apply externally twice daily on the affected area.",
+    "side_effects": "Avoid during pregnancy and lactation unless prescribed."
+  },
+  {
+    "id": 122,
+    "name": "Chagladya",
+    "category": "Ayurvedic medicine",
+    "uses": "Improves strength and stamina; rejuvenates body tissues.",
+    "timing": "5-10 grams with warm water or milk, once or twice daily.",
+    "side_effects": "Not recommended for children without medical advice."
+  },
+  {
+    "id": 123,
+    "name": "Changeri",
+    "category": "Ayurvedic medicine",
+    "uses": "Supports digestion and improves appetite.",
+    "timing": "10-20 ml with equal quantity of water, twice daily after meals.",
+    "side_effects": "Generally safe when used as prescribed."
+  },
+  {
+    "id": 124,
+    "name": "Dadhik",
+    "category": "Ayurvedic medicine",
+    "uses": "Improves strength and stamina; rejuvenates body tissues.",
+    "timing": "10-20 ml with equal quantity of water, twice daily after meals.",
+    "side_effects": "Avoid during pregnancy and lactation unless prescribed."
+  },
+  {
+    "id": 125,
+    "name": "Dadimadi",
+    "category": "Ayurvedic medicine",
+    "uses": "Helps in managing fever and body aches.",
+    "timing": "As directed by an Ayurvedic physician.",
+    "side_effects": "Avoid during pregnancy and lactation unless prescribed."
+  },
+  {
+    "id": 126,
+    "name": "Dashmool",
+    "category": "Ayurvedic medicine",
+    "uses": "Used to treat anemia and improve blood formation.",
+    "timing": "5-10 grams with warm water or milk, once or twice daily.",
+    "side_effects": "Not recommended for children without medical advice."
+  },
+  {
+    "id": 127,
+    "name": "Dashmool Shatpalak",
+    "category": "Ayurvedic medicine",
+    "uses": "Used for liver detoxification and improving liver function.",
+    "timing": "10-20 ml with equal quantity of water, twice daily after meals.",
+    "side_effects": "May cause mild gastric irritation in sensitive individuals."
+  },
+  {
+    "id": 128,
+    "name": "Dashmool Shatpalak",
+    "category": "Ayurvedic medicine",
+    "uses": "Used in the treatment of piles and constipation.",
+    "timing": "As directed by an Ayurvedic physician.",
+    "side_effects": "May cause mild gastric irritation in sensitive individuals."
+  },
+  {
+    "id": 129,
+    "name": "Dhanvantar",
+    "category": "Ayurvedic medicine",
+    "uses": "Helps manage respiratory disorders and cough.",
+    "timing": "As directed by an Ayurvedic physician.",
+    "side_effects": "May cause mild gastric irritation in sensitive individuals."
+  },
+  {
+    "id": 130,
+    "name": "Dhatryadi",
+    "category": "Ayurvedic medicine",
+    "uses": "Helps manage respiratory disorders and cough.",
+    "timing": "As directed by an Ayurvedic physician.",
+    "side_effects": "Excessive use may cause loose stools."
+  },
+  {
+    "id": 131,
+    "name": "Eladi",
+    "category": "Ayurvedic medicine",
+    "uses": "Supports urinary health and kidney function.",
+    "timing": "As directed by an Ayurvedic physician.",
+    "side_effects": "Not recommended for children without medical advice."
+  },
+  {
+    "id": 132,
+    "name": "Indukant",
+    "category": "Ayurvedic medicine",
+    "uses": "Strengthens the nervous system and boosts memory.",
+    "timing": "As directed by an Ayurvedic physician.",
+    "side_effects": "Generally safe when used as prescribed."
+  },
+  {
+    "id": 133,
+    "name": "Jatyadi",
+    "category": "Ayurvedic medicine",
+    "uses": "Supports digestion and improves appetite.",
+    "timing": "10-20 ml with equal quantity of water, twice daily after meals.",
+    "side_effects": "May cause mild gastric irritation in sensitive individuals."
+  },
+  {
+    "id": 134,
+    "name": "Jeevantyadi",
+    "category": "Ayurvedic medicine",
+    "uses": "Helps manage respiratory disorders and cough.",
+    "timing": "10-20 ml with equal quantity of water, twice daily after meals.",
+    "side_effects": "Excessive use may cause loose stools."
+  },
+  {
+    "id": 135,
+    "name": "Kalyanak",
+    "category": "Ayurvedic medicine",
+    "uses": "Supports digestion and improves appetite.",
+    "timing": "10-20 ml with equal quantity of water, twice daily after meals.",
+    "side_effects": "Not recommended for children without medical advice."
+  },
+  {
+    "id": 136,
+    "name": "Kasisadi",
+    "category": "Ayurvedic medicine",
+    "uses": "Used to treat anemia and improve blood formation.",
+    "timing": "10-20 ml with equal quantity of water, twice daily after meals.",
+    "side_effects": "Excessive use may cause loose stools."
+  },
+  {
+    "id": 137,
+    "name": "Lasunadi",
+    "category": "Ayurvedic medicine",
+    "uses": "Used to treat anemia and improve blood formation.",
+    "timing": "1-2 tablets twice daily after meals with water.",
+    "side_effects": "Excessive use may cause loose stools."
+  },
+  {
+    "id": 138,
+    "name": "Mahachetas (apasmar)",
+    "category": "Ayurvedic medicine",
+    "uses": "Helps manage respiratory disorders and cough.",
+    "timing": "1-2 tablets twice daily after meals with water.",
+    "side_effects": "May cause mild gastric irritation in sensitive individuals."
+  },
+  {
+    "id": 139,
+    "name": "Mahachetasash (jvaradhikar)",
+    "category": "Ayurvedic medicine",
+    "uses": "Improves strength and stamina; rejuvenates body tissues.",
+    "timing": "As directed by an Ayurvedic physician.",
+    "side_effects": "Avoid during pregnancy and lactation unless prescribed."
+  },
+  {
+    "id": 140,
+    "name": "Mahapanchagabya",
+    "category": "Ayurvedic medicine",
+    "uses": "Strengthens the nervous system and boosts memory.",
+    "timing": "As directed by an Ayurvedic physician.",
+    "side_effects": "May cause mild gastric irritation in sensitive individuals."
+  },
+  {
+    "id": 141,
+    "name": "Mahakalyanak",
+    "category": "Ayurvedic medicine",
+    "uses": "Used in the treatment of piles and constipation.",
+    "timing": "As directed by an Ayurvedic physician.",
+    "side_effects": "Avoid during pregnancy and lactation unless prescribed."
+  },
+  {
+    "id": 142,
+    "name": "Mhatikta",
+    "category": "Ayurvedic medicine",
+    "uses": "Used to treat anemia and improve blood formation.",
+    "timing": "1-2 tablets twice daily after meals with water.",
+    "side_effects": "May cause mild gastric irritation in sensitive individuals."
+  },
+  {
+    "id": 143,
+    "name": "Mahatriphaladya",
+    "category": "Ayurvedic medicine",
+    "uses": "Helps in managing fever and body aches.",
+    "timing": "As directed by an Ayurvedic physician.",
+    "side_effects": "Not recommended for children without medical advice."
+  },
+  {
+    "id": 144,
+    "name": "Manhshiladi",
+    "category": "Ayurvedic medicine",
+    "uses": "Helps in managing fever and body aches.",
+    "timing": "5-10 grams with warm water or milk, once or twice daily.",
+    "side_effects": "Avoid during pregnancy and lactation unless prescribed."
+  },
+  {
+    "id": 145,
+    "name": "Mishrak Sneh",
+    "category": "Ayurvedic medicine",
+    "uses": "Supports digestion and improves appetite.",
+    "timing": "1-2 tablets twice daily after meals with water.",
+    "side_effects": "Not recommended for children without medical advice."
+  },
+  {
+    "id": 146,
+    "name": "Naresingh",
+    "category": "Ayurvedic medicine",
+    "uses": "Strengthens the nervous system and boosts memory.",
+    "timing": "1-2 tablets twice daily after meals with water.",
+    "side_effects": "Generally safe when used as prescribed."
+  },
+  {
+    "id": 147,
+    "name": "Nirgundi",
+    "category": "Ayurvedic medicine",
+    "uses": "Used for liver detoxification and improving liver function.",
+    "timing": "1-2 tablets twice daily after meals with water.",
+    "side_effects": "May cause mild gastric irritation in sensitive individuals."
+  },
+  {
+    "id": 148,
+    "name": "Panchagabya",
+    "category": "Ayurvedic medicine",
+    "uses": "Improves strength and stamina; rejuvenates body tissues.",
+    "timing": "5-10 grams with warm water or milk, once or twice daily.",
+    "side_effects": "Avoid during pregnancy and lactation unless prescribed."
+  },
+  {
+    "id": 149,
+    "name": "Panchatikta",
+    "category": "Ayurvedic medicine",
+    "uses": "Helps in managing fever and body aches.",
+    "timing": "5-10 grams with warm water or milk, once or twice daily.",
+    "side_effects": "May cause mild gastric irritation in sensitive individuals."
+  },
+  {
+    "id": 150,
+    "name": "Panchatikta Guggulu",
+    "category": "Ayurvedic medicine",
+    "uses": "Helps in managing fever and body aches.",
+    "timing": "As directed by an Ayurvedic physician.",
+    "side_effects": "Not recommended for children without medical advice."
+  },
+  {
+    "id": 151,
+    "name": "Patoladi",
+    "category": "Ayurvedic medicine",
+    "uses": "Helps in managing fever and body aches.",
+    "timing": "10-20 ml with equal quantity of water, twice daily after meals.",
+    "side_effects": "Not recommended for children without medical advice."
+  },
+  {
+    "id": 152,
+    "name": "Phalghrit (Phalsharpi)",
+    "category": "Ayurvedic medicine",
+    "uses": "Supports digestion and improves appetite.",
+    "timing": "Apply externally twice daily on the affected area.",
+    "side_effects": "Avoid during pregnancy and lactation unless prescribed."
+  },
+  {
+    "id": 153,
+    "name": "Pipplyadi",
+    "category": "Ayurvedic medicine",
+    "uses": "Strengthens the nervous system and boosts memory.",
+    "timing": "5-10 grams with warm water or milk, once or twice daily.",
+    "side_effects": "Generally safe when used as prescribed."
+  },
+  {
+    "id": 154,
+    "name": "Sarswat",
+    "category": "Ayurvedic medicine",
+    "uses": "Supports digestion and improves appetite.",
+    "timing": "As directed by an Ayurvedic physician.",
+    "side_effects": "Not recommended for children without medical advice."
+  },
+  {
+    "id": 155,
+    "name": "Shatpal (Panchkaladi)",
+    "category": "Ayurvedic medicine",
+    "uses": "Supports digestion and improves appetite.",
+    "timing": "1-2 tablets twice daily after meals with water.",
+    "side_effects": "Generally safe when used as prescribed."
+  },
+  {
+    "id": 156,
+    "name": "Sukumar",
+    "category": "Ayurvedic medicine",
+    "uses": "Used in the treatment of piles and constipation.",
+    "timing": "10-20 ml with equal quantity of water, twice daily after meals.",
+    "side_effects": "May cause mild gastric irritation in sensitive individuals."
+  },
+  {
+    "id": 157,
+    "name": "Tiqtaq",
+    "category": "Ayurvedic medicine",
+    "uses": "Helps manage respiratory disorders and cough.",
+    "timing": "10-20 ml with equal quantity of water, twice daily after meals.",
+    "side_effects": "Generally safe when used as prescribed."
+  },
+  {
+    "id": 158,
+    "name": "Triphala",
+    "category": "Ayurvedic medicine",
+    "uses": "Supports digestion and improves appetite.",
+    "timing": "5-10 grams with warm water or milk, once or twice daily.",
+    "side_effects": "Excessive use may cause loose stools."
+  },
+  {
+    "id": 159,
+    "name": "Vidaryadi",
+    "category": "Ayurvedic medicine",
+    "uses": "Strengthens the nervous system and boosts memory.",
+    "timing": "5-10 grams with warm water or milk, once or twice daily.",
+    "side_effects": "May cause mild gastric irritation in sensitive individuals."
+  },
+  {
+    "id": 160,
+    "name": "Aamlaqyadi",
+    "category": "Ayurvedic medicine",
+    "uses": "Used to treat anemia and improve blood formation.",
+    "timing": "Apply externally twice daily on the affected area.",
+    "side_effects": "Avoid during pregnancy and lactation unless prescribed."
+  },
+  {
+    "id": 161,
+    "name": "Amalaki Churna",
+    "category": "Ayurvedic medicine",
+    "uses": "Used to treat anemia and improve blood formation.",
+    "timing": "As directed by an Ayurvedic physician.",
+    "side_effects": "Avoid during pregnancy and lactation unless prescribed."
+  },
+  {
+    "id": 162,
+    "name": "Ajmodadi",
+    "category": "Ayurvedic medicine",
+    "uses": "Effective in treating skin diseases and detoxification.",
+    "timing": "5-10 grams with warm water or milk, once or twice daily.",
+    "side_effects": "Generally safe when used as prescribed."
+  },
+  {
+    "id": 163,
+    "name": "Ashtang Lavan",
+    "category": "Ayurvedic medicine",
+    "uses": "Effective in treating skin diseases and detoxification.",
+    "timing": "1-2 tablets twice daily after meals with water.",
+    "side_effects": "Not recommended for children without medical advice."
+  },
+  {
+    "id": 164,
+    "name": "Avipattikar",
+    "category": "Ayurvedic medicine",
+    "uses": "Effective in treating skin diseases and detoxification.",
+    "timing": "Apply externally twice daily on the affected area.",
+    "side_effects": "Avoid during pregnancy and lactation unless prescribed."
+  },
+  {
+    "id": 165,
+    "name": "Bakuchi",
+    "category": "Ayurvedic medicine",
+    "uses": "Helps manage respiratory disorders and cough.",
+    "timing": "As directed by an Ayurvedic physician.",
+    "side_effects": "Not recommended for children without medical advice."
+  },
+  {
+    "id": 166,
+    "name": "Balchaturbhadrika",
+    "category": "Ayurvedic medicine",
+    "uses": "Helps in managing fever and body aches.",
+    "timing": "Apply externally twice daily on the affected area.",
+    "side_effects": "May cause mild gastric irritation in sensitive individuals."
+  },
+  {
+    "id": 167,
+    "name": "Bhallatak Rasayan",
+    "category": "Ayurvedic medicine",
+    "uses": "Used in the treatment of piles and constipation.",
+    "timing": "10-20 ml with equal quantity of water, twice daily after meals.",
+    "side_effects": "Excessive use may cause loose stools."
+  },
+  {
+    "id": 168,
+    "name": "Bhallatak Lavan (Lavan Bhasker)",
+    "category": "Ayurvedic medicine",
+    "uses": "Strengthens the nervous system and boosts memory.",
+    "timing": "1-2 tablets twice daily after meals with water.",
+    "side_effects": "Avoid during pregnancy and lactation unless prescribed."
+  },
+  {
+    "id": 169,
+    "name": "Br. Gangadhar",
+    "category": "Ayurvedic medicine",
+    "uses": "Used for liver detoxification and improving liver function.",
+    "timing": "Apply externally twice daily on the affected area.",
+    "side_effects": "Avoid during pregnancy and lactation unless prescribed."
+  },
+  {
+    "id": 170,
+    "name": "Chandanadi",
+    "category": "Ayurvedic medicine",
+    "uses": "Used to treat anemia and improve blood formation.",
+    "timing": "As directed by an Ayurvedic physician.",
+    "side_effects": "Excessive use may cause loose stools."
+  },
+  {
+    "id": 171,
+    "name": "Chatujat",
+    "category": "Ayurvedic medicine",
+    "uses": "Improves strength and stamina; rejuvenates body tissues.",
+    "timing": "As directed by an Ayurvedic physician.",
+    "side_effects": "Not recommended for children without medical advice."
+  },
+  {
+    "id": 172,
+    "name": "Chitrakadi",
+    "category": "Ayurvedic medicine",
+    "uses": "Effective in treating skin diseases and detoxification.",
+    "timing": "5-10 grams with warm water or milk, once or twice daily.",
+    "side_effects": "Avoid during pregnancy and lactation unless prescribed."
+  },
+  {
+    "id": 173,
+    "name": "Dadimastak",
+    "category": "Ayurvedic medicine",
+    "uses": "Used in the treatment of piles and constipation.",
+    "timing": "1-2 tablets twice daily after meals with water.",
+    "side_effects": "Excessive use may cause loose stools."
+  },
+  {
+    "id": 174,
+    "name": "Dasan Sanskar",
+    "category": "Ayurvedic medicine",
+    "uses": "Helps in managing fever and body aches.",
+    "timing": "5-10 grams with warm water or milk, once or twice daily.",
+    "side_effects": "Avoid during pregnancy and lactation unless prescribed."
+  },
+  {
+    "id": 175,
+    "name": "Eladi",
+    "category": "Ayurvedic medicine",
+    "uses": "Improves strength and stamina; rejuvenates body tissues.",
+    "timing": "As directed by an Ayurvedic physician.",
+    "side_effects": "Avoid during pregnancy and lactation unless prescribed."
+  },
+  {
+    "id": 176,
+    "name": "Hutbhugadi",
+    "category": "Ayurvedic medicine",
+    "uses": "Supports urinary health and kidney function.",
+    "timing": "1-2 tablets twice daily after meals with water.",
+    "side_effects": "Avoid during pregnancy and lactation unless prescribed."
+  },
+  {
+    "id": 177,
+    "name": "Gomutra Haritaki",
+    "category": "Ayurvedic medicine",
+    "uses": "Strengthens the nervous system and boosts memory.",
+    "timing": "10-20 ml with equal quantity of water, twice daily after meals.",
+    "side_effects": "Not recommended for children without medical advice."
+  },
+  {
+    "id": 178,
+    "name": "Gandharva Haritaki",
+    "category": "Ayurvedic medicine",
+    "uses": "Helps in managing fever and body aches.",
+    "timing": "1-2 tablets twice daily after meals with water.",
+    "side_effects": "Excessive use may cause loose stools."
+  },
+  {
+    "id": 179,
+    "name": "Haritaki",
+    "category": "Ayurvedic medicine",
+    "uses": "Helps manage respiratory disorders and cough.",
+    "timing": "10-20 ml with equal quantity of water, twice daily after meals.",
+    "side_effects": "Avoid during pregnancy and lactation unless prescribed."
+  },
+  {
+    "id": 180,
+    "name": "Haritakyadi",
+    "category": "Ayurvedic medicine",
+    "uses": "Used in the treatment of piles and constipation.",
+    "timing": "As directed by an Ayurvedic physician.",
+    "side_effects": "Generally safe when used as prescribed."
+  },
+  {
+    "id": 181,
+    "name": "Hinguvchyadi (Hingwadi)",
+    "category": "Ayurvedic medicine",
+    "uses": "Helps in managing fever and body aches.",
+    "timing": "Apply externally twice daily on the affected area.",
+    "side_effects": "Generally safe when used as prescribed."
+  },
+  {
+    "id": 182,
+    "name": "Hingwadi",
+    "category": "Ayurvedic medicine",
+    "uses": "Improves strength and stamina; rejuvenates body tissues.",
+    "timing": "1-2 tablets twice daily after meals with water.",
+    "side_effects": "Not recommended for children without medical advice."
+  },
+  {
+    "id": 183,
+    "name": "Hingwastak",
+    "category": "Ayurvedic medicine",
+    "uses": "Helps manage respiratory disorders and cough.",
+    "timing": "10-20 ml with equal quantity of water, twice daily after meals.",
+    "side_effects": "May cause mild gastric irritation in sensitive individuals."
+  },
+  {
+    "id": 184,
+    "name": "Intuppukana",
+    "category": "Ayurvedic medicine",
+    "uses": "Supports urinary health and kidney function.",
+    "timing": "10-20 ml with equal quantity of water, twice daily after meals.",
+    "side_effects": "Excessive use may cause loose stools."
+  },
+  {
+    "id": 185,
+    "name": "Jatiphaladya",
+    "category": "Ayurvedic medicine",
+    "uses": "Helps in managing fever and body aches.",
+    "timing": "5-10 grams with warm water or milk, once or twice daily.",
+    "side_effects": "Generally safe when used as prescribed."
+  },
+  {
+    "id": 186,
+    "name": "Karpuradi",
+    "category": "Ayurvedic medicine",
+    "uses": "Supports urinary health and kidney function.",
+    "timing": "10-20 ml with equal quantity of water, twice daily after meals.",
+    "side_effects": "May cause mild gastric irritation in sensitive individuals."
+  },
+  {
+    "id": 187,
+    "name": "Madhuyasthi",
+    "category": "Ayurvedic medicine",
+    "uses": "Effective in treating skin diseases and detoxification.",
+    "timing": "Apply externally twice daily on the affected area.",
+    "side_effects": "Avoid during pregnancy and lactation unless prescribed."
+  },
+  {
+    "id": 188,
+    "name": "Narayan",
+    "category": "Ayurvedic medicine",
+    "uses": "Effective in treating skin diseases and detoxification.",
+    "timing": "1-2 tablets twice daily after meals with water.",
+    "side_effects": "Avoid during pregnancy and lactation unless prescribed."
+  },
+  {
+    "id": 189,
+    "name": "Narsingh",
+    "category": "Ayurvedic medicine",
+    "uses": "Used in the treatment of piles and constipation.",
+    "timing": "10-20 ml with equal quantity of water, twice daily after meals.",
+    "side_effects": "Excessive use may cause loose stools."
+  },
+  {
+    "id": 190,
+    "name": "Navayas",
+    "category": "Ayurvedic medicine",
+    "uses": "Supports urinary health and kidney function.",
+    "timing": "10-20 ml with equal quantity of water, twice daily after meals.",
+    "side_effects": "May cause mild gastric irritation in sensitive individuals."
+  },
+  {
+    "id": 191,
+    "name": "Nambadi",
+    "category": "Ayurvedic medicine",
+    "uses": "Helps manage respiratory disorders and cough.",
+    "timing": "1-2 tablets twice daily after meals with water.",
+    "side_effects": "May cause mild gastric irritation in sensitive individuals."
+  },
+  {
+    "id": 192,
+    "name": "Nyagrodhadi",
+    "category": "Ayurvedic medicine",
+    "uses": "Used for liver detoxification and improving liver function.",
+    "timing": "Apply externally twice daily on the affected area.",
+    "side_effects": "Excessive use may cause loose stools."
+  },
+  {
+    "id": 193,
+    "name": "Panchasam",
+    "category": "Ayurvedic medicine",
+    "uses": "Effective in treating skin diseases and detoxification.",
+    "timing": "Apply externally twice daily on the affected area.",
+    "side_effects": "May cause mild gastric irritation in sensitive individuals."
+  },
+  {
+    "id": 194,
+    "name": "Pushyanug",
+    "category": "Ayurvedic medicine",
+    "uses": "Used in the treatment of piles and constipation.",
+    "timing": "Apply externally twice daily on the affected area.",
+    "side_effects": "Excessive use may cause loose stools."
+  },
+  {
+    "id": 195,
+    "name": "Ranjanyadi",
+    "category": "Ayurvedic medicine",
+    "uses": "Used to treat anemia and improve blood formation.",
+    "timing": "Apply externally twice daily on the affected area.",
+    "side_effects": "Generally safe when used as prescribed."
+  },
+  {
+    "id": 196,
+    "name": "Samangadi",
+    "category": "Ayurvedic medicine",
+    "uses": "Used for liver detoxification and improving liver function.",
+    "timing": "10-20 ml with equal quantity of water, twice daily after meals.",
+    "side_effects": "Generally safe when used as prescribed."
+  },
+  {
+    "id": 197,
+    "name": "Samudradhya",
+    "category": "Ayurvedic medicine",
+    "uses": "Used in the treatment of piles and constipation.",
+    "timing": "5-10 grams with warm water or milk, once or twice daily.",
+    "side_effects": "Excessive use may cause loose stools."
+  },
+  {
+    "id": 198,
+    "name": "Shringvadi",
+    "category": "Ayurvedic medicine",
+    "uses": "Used to treat anemia and improve blood formation.",
+    "timing": "10-20 ml with equal quantity of water, twice daily after meals.",
+    "side_effects": "Avoid during pregnancy and lactation unless prescribed."
+  },
+  {
+    "id": 199,
+    "name": "Sitopaladi",
+    "category": "Ayurvedic medicine",
+    "uses": "Supports digestion and improves appetite.",
+    "timing": "5-10 grams with warm water or milk, once or twice daily.",
+    "side_effects": "Avoid during pregnancy and lactation unless prescribed."
+  },
+  {
+    "id": 200,
+    "name": "Somlata",
+    "category": "Ayurvedic medicine",
+    "uses": "Used to treat anemia and improve blood formation.",
+    "timing": "Apply externally twice daily on the affected area.",
+    "side_effects": "Generally safe when used as prescribed."
+  },
+  {
+    "id": 201,
+    "name": "Sudarshan",
+    "category": "Ayurvedic medicine",
+    "uses": "Improves strength and stamina; rejuvenates body tissues.",
+    "timing": "Apply externally twice daily on the affected area.",
+    "side_effects": "May cause mild gastric irritation in sensitive individuals."
+  },
+  {
+    "id": 202,
+    "name": "Swadista Virechan",
+    "category": "Ayurvedic medicine",
+    "uses": "Improves strength and stamina; rejuvenates body tissues.",
+    "timing": "10-20 ml with equal quantity of water, twice daily after meals.",
+    "side_effects": "Not recommended for children without medical advice."
+  },
+  {
+    "id": 203,
+    "name": "Swadishta Virechana",
+    "category": "Ayurvedic medicine",
+    "uses": "Effective in treating skin diseases and detoxification.",
+    "timing": "Apply externally twice daily on the affected area.",
+    "side_effects": "Not recommended for children without medical advice."
+  },
+  {
+    "id": 204,
+    "name": "Swalpa Nayika",
+    "category": "Ayurvedic medicine",
+    "uses": "Supports digestion and improves appetite.",
+    "timing": "As directed by an Ayurvedic physician.",
+    "side_effects": "Generally safe when used as prescribed."
+  },
+  {
+    "id": 205,
+    "name": "Talisa",
+    "category": "Ayurvedic medicine",
+    "uses": "Strengthens the nervous system and boosts memory.",
+    "timing": "1-2 tablets twice daily after meals with water.",
+    "side_effects": "Excessive use may cause loose stools."
+  },
+  {
+    "id": 206,
+    "name": "Trikatu",
+    "category": "Ayurvedic medicine",
+    "uses": "Used for liver detoxification and improving liver function.",
+    "timing": "5-10 grams with warm water or milk, once or twice daily.",
+    "side_effects": "Excessive use may cause loose stools."
+  },
+  {
+    "id": 207,
+    "name": "Triphala",
+    "category": "Ayurvedic medicine",
+    "uses": "Helps manage respiratory disorders and cough.",
+    "timing": "As directed by an Ayurvedic physician.",
+    "side_effects": "Excessive use may cause loose stools."
+  },
+  {
+    "id": 208,
+    "name": "Veshvaran",
+    "category": "Ayurvedic medicine",
+    "uses": "Strengthens the nervous system and boosts memory.",
+    "timing": "Apply externally twice daily on the affected area.",
+    "side_effects": "Avoid during pregnancy and lactation unless prescribed."
+  },
+  {
+    "id": 209,
+    "name": "Yavani Sandav (Yavanyadi)",
+    "category": "Ayurvedic medicine",
+    "uses": "Effective in treating skin diseases and detoxification.",
+    "timing": "5-10 grams with warm water or milk, once or twice daily.",
+    "side_effects": "Avoid during pregnancy and lactation unless prescribed."
+  },
+  {
+    "id": 210,
+    "name": "Yavanyadi (Kapinyatak)",
+    "category": "Ayurvedic medicine",
+    "uses": "Improves strength and stamina; rejuvenates body tissues.",
+    "timing": "5-10 grams with warm water or milk, once or twice daily.",
+    "side_effects": "Avoid during pregnancy and lactation unless prescribed."
+  },
+  {
+    "id": 211,
+    "name": "Trivrita Churna",
+    "category": "Ayurvedic medicine",
+    "uses": "Used for liver detoxification and improving liver function.",
+    "timing": "10-20 ml with equal quantity of water, twice daily after meals.",
+    "side_effects": "Excessive use may cause loose stools."
+  },
+  {
+    "id": 212,
+    "name": "Anu",
+    "category": "Ayurvedic medicine",
+    "uses": "Effective in treating skin diseases and detoxification.",
+    "timing": "10-20 ml with equal quantity of water, twice daily after meals.",
+    "side_effects": "Avoid during pregnancy and lactation unless prescribed."
+  },
+  {
+    "id": 213,
+    "name": "Apanargkshar",
+    "category": "Ayurvedic medicine",
+    "uses": "Effective in treating skin diseases and detoxification.",
+    "timing": "As directed by an Ayurvedic physician.",
+    "side_effects": "Generally safe when used as prescribed."
+  },
+  {
+    "id": 214,
+    "name": "Asan Bilwadi",
+    "category": "Ayurvedic medicine",
+    "uses": "Effective in treating skin diseases and detoxification.",
+    "timing": "5-10 grams with warm water or milk, once or twice daily.",
+    "side_effects": "Avoid during pregnancy and lactation unless prescribed."
+  },
+  {
+    "id": 215,
+    "name": "Ashvagandha",
+    "category": "Ayurvedic medicine",
+    "uses": "Used in the treatment of piles and constipation.",
+    "timing": "5-10 grams with warm water or milk, once or twice daily.",
+    "side_effects": "May cause mild gastric irritation in sensitive individuals."
+  },
+  {
+    "id": 216,
+    "name": "Bachadi",
+    "category": "Ayurvedic medicine",
+    "uses": "Improves strength and stamina; rejuvenates body tissues.",
+    "timing": "5-10 grams with warm water or milk, once or twice daily.",
+    "side_effects": "Not recommended for children without medical advice."
+  },
+  {
+    "id": 217,
+    "name": "Bachalasunadi",
+    "category": "Ayurvedic medicine",
+    "uses": "Helps in managing fever and body aches.",
+    "timing": "As directed by an Ayurvedic physician.",
+    "side_effects": "Avoid during pregnancy and lactation unless prescribed."
+  },
+  {
+    "id": 218,
+    "name": "Bala",
+    "category": "Ayurvedic medicine",
+    "uses": "Used to treat anemia and improve blood formation.",
+    "timing": "As directed by an Ayurvedic physician.",
+    "side_effects": "Generally safe when used as prescribed."
+  },
+  {
+    "id": 219,
+    "name": "Balasvagandhlakshadi",
+    "category": "Ayurvedic medicine",
+    "uses": "Used in the treatment of piles and constipation.",
+    "timing": "As directed by an Ayurvedic physician.",
+    "side_effects": "Generally safe when used as prescribed."
+  },
+  {
+    "id": 220,
+    "name": "Bala Dhatriyadi",
+    "category": "Ayurvedic medicine",
+    "uses": "Used in the treatment of piles and constipation.",
+    "timing": "As directed by an Ayurvedic physician.",
+    "side_effects": "Generally safe when used as prescribed."
+  },
+  {
+    "id": 221,
+    "name": "Bala Guduchyadi",
+    "category": "Ayurvedic medicine",
+    "uses": "Strengthens the nervous system and boosts memory.",
+    "timing": "10-20 ml with equal quantity of water, twice daily after meals.",
+    "side_effects": "Excessive use may cause loose stools."
+  },
+  {
+    "id": 222,
+    "name": "Balahastyadi",
+    "category": "Ayurvedic medicine",
+    "uses": "Used for liver detoxification and improving liver function.",
+    "timing": "5-10 grams with warm water or milk, once or twice daily.",
+    "side_effects": "Generally safe when used as prescribed."
+  },
+  {
+    "id": 223,
+    "name": "Vajrak",
+    "category": "Ayurvedic medicine",
+    "uses": "Used in the treatment of piles and constipation.",
+    "timing": "5-10 grams with warm water or milk, once or twice daily.",
+    "side_effects": "May cause mild gastric irritation in sensitive individuals."
+  },
+  {
+    "id": 224,
+    "name": "Bhringamalanadi",
+    "category": "Ayurvedic medicine",
+    "uses": "Used in the treatment of piles and constipation.",
+    "timing": "10-20 ml with equal quantity of water, twice daily after meals.",
+    "side_effects": "Excessive use may cause loose stools."
+  },
+  {
+    "id": 225,
+    "name": "Bhringraj",
+    "category": "Ayurvedic medicine",
+    "uses": "Supports digestion and improves appetite.",
+    "timing": "10-20 ml with equal quantity of water, twice daily after meals.",
+    "side_effects": "Excessive use may cause loose stools."
+  },
+  {
+    "id": 226,
+    "name": "Br. Guduchi",
+    "category": "Ayurvedic medicine",
+    "uses": "Improves strength and stamina; rejuvenates body tissues.",
+    "timing": "Apply externally twice daily on the affected area.",
+    "side_effects": "Not recommended for children without medical advice."
+  },
+  {
+    "id": 227,
+    "name": "Br. Marichyadi",
+    "category": "Ayurvedic medicine",
+    "uses": "Strengthens the nervous system and boosts memory.",
+    "timing": "As directed by an Ayurvedic physician.",
+    "side_effects": "Excessive use may cause loose stools."
+  },
+  {
+    "id": 228,
+    "name": "Br. Mash",
+    "category": "Ayurvedic medicine",
+    "uses": "Used for liver detoxification and improving liver function.",
+    "timing": "1-2 tablets twice daily after meals with water.",
+    "side_effects": "Excessive use may cause loose stools."
+  },
+  {
+    "id": 229,
+    "name": "Br. Saindhavadya",
+    "category": "Ayurvedic medicine",
+    "uses": "Effective in treating skin diseases and detoxification.",
+    "timing": "10-20 ml with equal quantity of water, twice daily after meals.",
+    "side_effects": "Generally safe when used as prescribed."
+  },
+  {
+    "id": 230,
+    "name": "Vranrakshas",
+    "category": "Ayurvedic medicine",
+    "uses": "Effective in treating skin diseases and detoxification.",
+    "timing": "5-10 grams with warm water or milk, once or twice daily.",
+    "side_effects": "Excessive use may cause loose stools."
+  },
+  {
+    "id": 231,
+    "name": "Chandanadi",
+    "category": "Ayurvedic medicine",
+    "uses": "Helps in managing fever and body aches.",
+    "timing": "Apply externally twice daily on the affected area.",
+    "side_effects": "Excessive use may cause loose stools."
+  },
+  {
+    "id": 232,
+    "name": "Chandanbalalakshadi",
+    "category": "Ayurvedic medicine",
+    "uses": "Used to treat anemia and improve blood formation.",
+    "timing": "As directed by an Ayurvedic physician.",
+    "side_effects": "Excessive use may cause loose stools."
+  },
+  {
+    "id": 233,
+    "name": "Chatrikadi",
+    "category": "Ayurvedic medicine",
+    "uses": "Supports urinary health and kidney function.",
+    "timing": "1-2 tablets twice daily after meals with water.",
+    "side_effects": "Generally safe when used as prescribed."
+  },
+  {
+    "id": 234,
+    "name": "Dhasturadiker",
+    "category": "Ayurvedic medicine",
+    "uses": "Used in the treatment of piles and constipation.",
+    "timing": "5-10 grams with warm water or milk, once or twice daily.",
+    "side_effects": "Avoid during pregnancy and lactation unless prescribed."
+  },
+  {
+    "id": 235,
+    "name": "Erand",
+    "category": "Ayurvedic medicine",
+    "uses": "Strengthens the nervous system and boosts memory.",
+    "timing": "10-20 ml with equal quantity of water, twice daily after meals.",
+    "side_effects": "Excessive use may cause loose stools."
+  },
+  {
+    "id": 236,
+    "name": "Erimedadi",
+    "category": "Ayurvedic medicine",
+    "uses": "Improves strength and stamina; rejuvenates body tissues.",
+    "timing": "1-2 tablets twice daily after meals with water.",
+    "side_effects": "Generally safe when used as prescribed."
+  },
+  {
+    "id": 237,
+    "name": "Gandhavahasta",
+    "category": "Ayurvedic medicine",
+    "uses": "Helps in managing fever and body aches.",
+    "timing": "10-20 ml with equal quantity of water, twice daily after meals.",
+    "side_effects": "Not recommended for children without medical advice."
+  },
+  {
+    "id": 238,
+    "name": "Grahinimihir",
+    "category": "Ayurvedic medicine",
+    "uses": "Used in the treatment of piles and constipation.",
+    "timing": "10-20 ml with equal quantity of water, twice daily after meals.",
+    "side_effects": "Generally safe when used as prescribed."
+  },
+  {
+    "id": 239,
+    "name": "Himsagar",
+    "category": "Ayurvedic medicine",
+    "uses": "Supports digestion and improves appetite.",
+    "timing": "1-2 tablets twice daily after meals with water.",
+    "side_effects": "Not recommended for children without medical advice."
+  },
+  {
+    "id": 240,
+    "name": "Hingutrigun",
+    "category": "Ayurvedic medicine",
+    "uses": "Effective in treating skin diseases and detoxification.",
+    "timing": "1-2 tablets twice daily after meals with water.",
+    "side_effects": "Not recommended for children without medical advice."
+  },
+  {
+    "id": 241,
+    "name": "Jatyadi",
+    "category": "Ayurvedic medicine",
+    "uses": "Helps in managing fever and body aches.",
+    "timing": "1-2 tablets twice daily after meals with water.",
+    "side_effects": "Not recommended for children without medical advice."
+  },
+  {
+    "id": 242,
+    "name": "Jatyadiker",
+    "category": "Ayurvedic medicine",
+    "uses": "Used to treat anemia and improve blood formation.",
+    "timing": "5-10 grams with warm water or milk, once or twice daily.",
+    "side_effects": "Generally safe when used as prescribed."
+  },
+  {
+    "id": 243,
+    "name": "Jyotismati",
+    "category": "Ayurvedic medicine",
+    "uses": "Improves strength and stamina; rejuvenates body tissues.",
+    "timing": "5-10 grams with warm water or milk, once or twice daily.",
+    "side_effects": "Excessive use may cause loose stools."
+  },
+  {
+    "id": 244,
+    "name": "Kanak",
+    "category": "Ayurvedic medicine",
+    "uses": "Improves strength and stamina; rejuvenates body tissues.",
+    "timing": "Apply externally twice daily on the affected area.",
+    "side_effects": "Not recommended for children without medical advice."
+  },
+  {
+    "id": 245,
+    "name": "Karpsasthyadi",
+    "category": "Ayurvedic medicine",
+    "uses": "Supports digestion and improves appetite.",
+    "timing": "5-10 grams with warm water or milk, once or twice daily.",
+    "side_effects": "May cause mild gastric irritation in sensitive individuals."
+  },
+  {
+    "id": 246,
+    "name": "Kasisadi",
+    "category": "Ayurvedic medicine",
+    "uses": "Used to treat anemia and improve blood formation.",
+    "timing": "5-10 grams with warm water or milk, once or twice daily.",
+    "side_effects": "May cause mild gastric irritation in sensitive individuals."
+  },
+  {
+    "id": 247,
+    "name": "Katyonyadi",
+    "category": "Ayurvedic medicine",
+    "uses": "Helps in managing fever and body aches.",
+    "timing": "10-20 ml with equal quantity of water, twice daily after meals.",
+    "side_effects": "Generally safe when used as prescribed."
+  },
+  {
+    "id": 248,
+    "name": "Kottmachuktadi",
+    "category": "Ayurvedic medicine",
+    "uses": "Used to treat anemia and improve blood formation.",
+    "timing": "1-2 tablets twice daily after meals with water.",
+    "side_effects": "May cause mild gastric irritation in sensitive individuals."
+  },
+  {
+    "id": 249,
+    "name": "Ksheerbala",
+    "category": "Ayurvedic medicine",
+    "uses": "Supports digestion and improves appetite.",
+    "timing": "1-2 tablets twice daily after meals with water.",
+    "side_effects": "Generally safe when used as prescribed."
+  },
+  {
+    "id": 250,
+    "name": "Ksheerbala",
+    "category": "Ayurvedic medicine",
+    "uses": "Improves strength and stamina; rejuvenates body tissues.",
+    "timing": "10-20 ml with equal quantity of water, twice daily after meals.",
+    "side_effects": "Excessive use may cause loose stools."
+  },
+  {
+    "id": 251,
+    "name": "Kunkumadi",
+    "category": "Ayurvedic medicine",
+    "uses": "Helps manage respiratory disorders and cough.",
+    "timing": "Apply externally twice daily on the affected area.",
+    "side_effects": "Excessive use may cause loose stools."
+  },
+  {
+    "id": 252,
+    "name": "Kushtharakas",
+    "category": "Ayurvedic medicine",
+    "uses": "Helps manage respiratory disorders and cough.",
+    "timing": "Apply externally twice daily on the affected area.",
+    "side_effects": "Generally safe when used as prescribed."
+  },
+  {
+    "id": 253,
+    "name": "Laghuvishgarbha",
+    "category": "Ayurvedic medicine",
+    "uses": "Helps in managing fever and body aches.",
+    "timing": "1-2 tablets twice daily after meals with water.",
+    "side_effects": "Excessive use may cause loose stools."
+  },
+  {
+    "id": 254,
+    "name": "Lakshadi",
+    "category": "Ayurvedic medicine",
+    "uses": "Improves strength and stamina; rejuvenates body tissues.",
+    "timing": "10-20 ml with equal quantity of water, twice daily after meals.",
+    "side_effects": "Avoid during pregnancy and lactation unless prescribed."
+  },
+  {
+    "id": 255,
+    "name": "Langali (Nirgundi)",
+    "category": "Ayurvedic medicine",
+    "uses": "Effective in treating skin diseases and detoxification.",
+    "timing": "5-10 grams with warm water or milk, once or twice daily.",
+    "side_effects": "Avoid during pregnancy and lactation unless prescribed."
+  },
+  {
+    "id": 256,
+    "name": "Lavang",
+    "category": "Ayurvedic medicine",
+    "uses": "Helps manage respiratory disorders and cough.",
+    "timing": "5-10 grams with warm water or milk, once or twice daily.",
+    "side_effects": "Generally safe when used as prescribed."
+  },
+  {
+    "id": 257,
+    "name": "Madhuyasthadi",
+    "category": "Ayurvedic medicine",
+    "uses": "Supports urinary health and kidney function.",
+    "timing": "5-10 grams with warm water or milk, once or twice daily.",
+    "side_effects": "Excessive use may cause loose stools."
+  },
+  {
+    "id": 258,
+    "name": "Maha Vishgarbha",
+    "category": "Ayurvedic medicine",
+    "uses": "Used to treat anemia and improve blood formation.",
+    "timing": "1-2 tablets twice daily after meals with water.",
+    "side_effects": "Avoid during pregnancy and lactation unless prescribed."
+  },
+  {
+    "id": 259,
+    "name": "Mahabaladi",
+    "category": "Ayurvedic medicine",
+    "uses": "Used to treat anemia and improve blood formation.",
+    "timing": "10-20 ml with equal quantity of water, twice daily after meals.",
+    "side_effects": "Generally safe when used as prescribed."
+  },
+  {
+    "id": 260,
+    "name": "Mahamash (Samish)",
+    "category": "Ayurvedic medicine",
+    "uses": "Used in the treatment of piles and constipation.",
+    "timing": "5-10 grams with warm water or milk, once or twice daily.",
+    "side_effects": "May cause mild gastric irritation in sensitive individuals."
+  },
+  {
+    "id": 261,
+    "name": "Mahanarayan",
+    "category": "Ayurvedic medicine",
+    "uses": "Improves strength and stamina; rejuvenates body tissues.",
+    "timing": "10-20 ml with equal quantity of water, twice daily after meals.",
+    "side_effects": "May cause mild gastric irritation in sensitive individuals."
+  },
+  {
+    "id": 262,
+    "name": "Manjisthadi",
+    "category": "Ayurvedic medicine",
+    "uses": "Used in the treatment of piles and constipation.",
+    "timing": "10-20 ml with equal quantity of water, twice daily after meals.",
+    "side_effects": "May cause mild gastric irritation in sensitive individuals."
+  },
+  {
+    "id": 263,
+    "name": "Manehyadi (Vishmarichyaadi)",
+    "category": "Ayurvedic medicine",
+    "uses": "Used for liver detoxification and improving liver function.",
+    "timing": "Apply externally twice daily on the affected area.",
+    "side_effects": "Excessive use may cause loose stools."
+  },
+  {
+    "id": 264,
+    "name": "Nalpamradi",
+    "category": "Ayurvedic medicine",
+    "uses": "Used to treat anemia and improve blood formation.",
+    "timing": "Apply externally twice daily on the affected area.",
+    "side_effects": "Avoid during pregnancy and lactation unless prescribed."
+  },
+  {
+    "id": 265,
+    "name": "Narayan",
+    "category": "Ayurvedic medicine",
+    "uses": "Used for liver detoxification and improving liver function.",
+    "timing": "Apply externally twice daily on the affected area.",
+    "side_effects": "Generally safe when used as prescribed."
+  },
+  {
+    "id": 266,
+    "name": "Neelibhringyadi",
+    "category": "Ayurvedic medicine",
+    "uses": "Helps in managing fever and body aches.",
+    "timing": "10-20 ml with equal quantity of water, twice daily after meals.",
+    "side_effects": "May cause mild gastric irritation in sensitive individuals."
+  },
+  {
+    "id": 267,
+    "name": "Neelikadya",
+    "category": "Ayurvedic medicine",
+    "uses": "Strengthens the nervous system and boosts memory.",
+    "timing": "1-2 tablets twice daily after meals with water.",
+    "side_effects": "Avoid during pregnancy and lactation unless prescribed."
+  },
+  {
+    "id": 268,
+    "name": "Nirgundi",
+    "category": "Ayurvedic medicine",
+    "uses": "Used for liver detoxification and improving liver function.",
+    "timing": "5-10 grams with warm water or milk, once or twice daily.",
+    "side_effects": "Generally safe when used as prescribed."
+  },
+  {
+    "id": 269,
+    "name": "Nimba Taila",
+    "category": "Ayurvedic medicine",
+    "uses": "Improves strength and stamina; rejuvenates body tissues.",
+    "timing": "10-20 ml with equal quantity of water, twice daily after meals.",
+    "side_effects": "Avoid during pregnancy and lactation unless prescribed."
+  },
+  {
+    "id": 270,
+    "name": "Panchagun",
+    "category": "Ayurvedic medicine",
+    "uses": "Improves strength and stamina; rejuvenates body tissues.",
+    "timing": "5-10 grams with warm water or milk, once or twice daily.",
+    "side_effects": "Avoid during pregnancy and lactation unless prescribed."
+  },
+  {
+    "id": 271,
+    "name": "Parintkedi Ksheeradi",
+    "category": "Ayurvedic medicine",
+    "uses": "Supports digestion and improves appetite.",
+    "timing": "1-2 tablets twice daily after meals with water.",
+    "side_effects": "Not recommended for children without medical advice."
+  },
+  {
+    "id": 272,
+    "name": "Pind",
+    "category": "Ayurvedic medicine",
+    "uses": "Strengthens the nervous system and boosts memory.",
+    "timing": "Apply externally twice daily on the affected area.",
+    "side_effects": "Not recommended for children without medical advice."
+  },
+  {
+    "id": 273,
+    "name": "Pipplyadi",
+    "category": "Ayurvedic medicine",
+    "uses": "Used in the treatment of piles and constipation.",
+    "timing": "Apply externally twice daily on the affected area.",
+    "side_effects": "Not recommended for children without medical advice."
+  },
+  {
+    "id": 274,
+    "name": "Prabhanjan Vimardan",
+    "category": "Ayurvedic medicine",
+    "uses": "Supports digestion and improves appetite.",
+    "timing": "As directed by an Ayurvedic physician.",
+    "side_effects": "Generally safe when used as prescribed."
+  },
+  {
+    "id": 275,
+    "name": "Pramehamehir",
+    "category": "Ayurvedic medicine",
+    "uses": "Supports urinary health and kidney function.",
+    "timing": "5-10 grams with warm water or milk, once or twice daily.",
+    "side_effects": "Generally safe when used as prescribed."
+  },
+  {
+    "id": 276,
+    "name": "Prasarini",
+    "category": "Ayurvedic medicine",
+    "uses": "Used to treat anemia and improve blood formation.",
+    "timing": "5-10 grams with warm water or milk, once or twice daily.",
+    "side_effects": "Excessive use may cause loose stools."
+  },
+  {
+    "id": 277,
+    "name": "Sahcharadi",
+    "category": "Ayurvedic medicine",
+    "uses": "Improves strength and stamina; rejuvenates body tissues.",
+    "timing": "10-20 ml with equal quantity of water, twice daily after meals.",
+    "side_effects": "Avoid during pregnancy and lactation unless prescribed."
+  },
+  {
+    "id": 278,
+    "name": "Saindhavadi",
+    "category": "Ayurvedic medicine",
+    "uses": "Effective in treating skin diseases and detoxification.",
+    "timing": "As directed by an Ayurvedic physician.",
+    "side_effects": "Excessive use may cause loose stools."
+  },
+  {
+    "id": 279,
+    "name": "Shadbindu",
+    "category": "Ayurvedic medicine",
+    "uses": "Used for liver detoxification and improving liver function.",
+    "timing": "5-10 grams with warm water or milk, once or twice daily.",
+    "side_effects": "Excessive use may cause loose stools."
+  },
+  {
+    "id": 280,
+    "name": "Somraji",
+    "category": "Ayurvedic medicine",
+    "uses": "Helps manage respiratory disorders and cough.",
+    "timing": "5-10 grams with warm water or milk, once or twice daily.",
+    "side_effects": "Excessive use may cause loose stools."
+  },
+  {
+    "id": 281,
+    "name": "Sushakmoolak",
+    "category": "Ayurvedic medicine",
+    "uses": "Improves strength and stamina; rejuvenates body tissues.",
+    "timing": "5-10 grams with warm water or milk, once or twice daily.",
+    "side_effects": "Avoid during pregnancy and lactation unless prescribed."
+  },
+  {
+    "id": 282,
+    "name": "Triphaladi",
+    "category": "Ayurvedic medicine",
+    "uses": "Used to treat anemia and improve blood formation.",
+    "timing": "1-2 tablets twice daily after meals with water.",
+    "side_effects": "Not recommended for children without medical advice."
+  },
+  {
+    "id": 283,
+    "name": "Tungdramadi",
+    "category": "Ayurvedic medicine",
+    "uses": "Effective in treating skin diseases and detoxification.",
+    "timing": "As directed by an Ayurvedic physician.",
+    "side_effects": "Not recommended for children without medical advice."
+  },
+  {
+    "id": 284,
+    "name": "Tuvrak",
+    "category": "Ayurvedic medicine",
+    "uses": "Supports digestion and improves appetite.",
+    "timing": "Apply externally twice daily on the affected area.",
+    "side_effects": "Not recommended for children without medical advice."
+  },
+  {
+    "id": 285,
+    "name": "Vasachanadi",
+    "category": "Ayurvedic medicine",
+    "uses": "Helps in managing fever and body aches.",
+    "timing": "10-20 ml with equal quantity of water, twice daily after meals.",
+    "side_effects": "Excessive use may cause loose stools."
+  },
+  {
+    "id": 286,
+    "name": "Vishgarbha",
+    "category": "Ayurvedic medicine",
+    "uses": "Helps in managing fever and body aches.",
+    "timing": "As directed by an Ayurvedic physician.",
+    "side_effects": "Excessive use may cause loose stools."
+  },
+  {
+    "id": 287,
+    "name": "Vishtinduk",
+    "category": "Ayurvedic medicine",
+    "uses": "Used for liver detoxification and improving liver function.",
+    "timing": "10-20 ml with equal quantity of water, twice daily after meals.",
+    "side_effects": "Excessive use may cause loose stools."
+  },
+  {
+    "id": 288,
+    "name": "Yasthimadhuka",
+    "category": "Ayurvedic medicine",
+    "uses": "Strengthens the nervous system and boosts memory.",
+    "timing": "10-20 ml with equal quantity of water, twice daily after meals.",
+    "side_effects": "May cause mild gastric irritation in sensitive individuals."
+  },
+  {
+    "id": 289,
+    "name": "Nilibhringadi Kera Taila",
+    "category": "Ayurvedic medicine",
+    "uses": "Helps manage respiratory disorders and cough.",
+    "timing": "Apply externally twice daily on the affected area.",
+    "side_effects": "Not recommended for children without medical advice."
+  },
+  {
+    "id": 290,
+    "name": "Tila Taila",
+    "category": "Ayurvedic medicine",
+    "uses": "Used to treat anemia and improve blood formation.",
+    "timing": "10-20 ml with equal quantity of water, twice daily after meals.",
+    "side_effects": "May cause mild gastric irritation in sensitive individuals."
+  },
+  {
+    "id": 291,
+    "name": "Tila Taila (Murchhit)",
+    "category": "Ayurvedic medicine",
+    "uses": "Improves strength and stamina; rejuvenates body tissues.",
+    "timing": "5-10 grams with warm water or milk, once or twice daily.",
+    "side_effects": "Excessive use may cause loose stools."
+  },
+  {
+    "id": 292,
+    "name": "Shankha",
+    "category": "Ayurvedic medicine",
+    "uses": "Used to treat anemia and improve blood formation.",
+    "timing": "10-20 ml with equal quantity of water, twice daily after meals.",
+    "side_effects": "Excessive use may cause loose stools."
+  },
+  {
+    "id": 293,
+    "name": "Abhay Lavan",
+    "category": "Ayurvedic medicine",
+    "uses": "Used in the treatment of piles and constipation.",
+    "timing": "5-10 grams with warm water or milk, once or twice daily.",
+    "side_effects": "Not recommended for children without medical advice."
+  },
+  {
+    "id": 294,
+    "name": "Abhittoladi Bhasma",
+    "category": "Ayurvedic medicine",
+    "uses": "Strengthens the nervous system and boosts memory.",
+    "timing": "As directed by an Ayurvedic physician.",
+    "side_effects": "Avoid during pregnancy and lactation unless prescribed."
+  },
+  {
+    "id": 295,
+    "name": "Apamargkshar",
+    "category": "Ayurvedic medicine",
+    "uses": "Used for liver detoxification and improving liver function.",
+    "timing": "1-2 tablets twice daily after meals with water.",
+    "side_effects": "May cause mild gastric irritation in sensitive individuals."
+  },
+  {
+    "id": 296,
+    "name": "Arq Lavan",
+    "category": "Ayurvedic medicine",
+    "uses": "Effective in treating skin diseases and detoxification.",
+    "timing": "Apply externally twice daily on the affected area.",
+    "side_effects": "Generally safe when used as prescribed."
+  },
+  {
+    "id": 297,
+    "name": "Vajrak Kshar",
+    "category": "Ayurvedic medicine",
+    "uses": "Supports urinary health and kidney function.",
+    "timing": "As directed by an Ayurvedic physician.",
+    "side_effects": "Not recommended for children without medical advice."
+  },
+  {
+    "id": 298,
+    "name": "Kadali Kshar",
+    "category": "Ayurvedic medicine",
+    "uses": "Effective in treating skin diseases and detoxification.",
+    "timing": "1-2 tablets twice daily after meals with water.",
+    "side_effects": "Generally safe when used as prescribed."
+  },
+  {
+    "id": 299,
+    "name": "Narikel Lavan",
+    "category": "Ayurvedic medicine",
+    "uses": "Supports urinary health and kidney function.",
+    "timing": "Apply externally twice daily on the affected area.",
+    "side_effects": "Not recommended for children without medical advice."
+  },
+  {
+    "id": 300,
+    "name": "Sajji Kshar",
+    "category": "Ayurvedic medicine",
+    "uses": "Improves strength and stamina; rejuvenates body tissues.",
+    "timing": "5-10 grams with warm water or milk, once or twice daily.",
+    "side_effects": "Avoid during pregnancy and lactation unless prescribed."
+  },
+  {
+    "id": 301,
+    "name": "Yavakshar",
+    "category": "Ayurvedic medicine",
+    "uses": "Improves strength and stamina; rejuvenates body tissues.",
+    "timing": "5-10 grams with warm water or milk, once or twice daily.",
+    "side_effects": "Generally safe when used as prescribed."
+  },
+  {
+    "id": 302,
+    "name": "Avalgujadi",
+    "category": "Ayurvedic medicine",
+    "uses": "Helps manage respiratory disorders and cough.",
+    "timing": "10-20 ml with equal quantity of water, twice daily after meals.",
+    "side_effects": "May cause mild gastric irritation in sensitive individuals."
+  },
+  {
+    "id": 303,
+    "name": "Dadrughna",
+    "category": "Ayurvedic medicine",
+    "uses": "Supports urinary health and kidney function.",
+    "timing": "1-2 tablets twice daily after meals with water.",
+    "side_effects": "Generally safe when used as prescribed."
+  },
+  {
+    "id": 304,
+    "name": "Dashang",
+    "category": "Ayurvedic medicine",
+    "uses": "Supports urinary health and kidney function.",
+    "timing": "5-10 grams with warm water or milk, once or twice daily.",
+    "side_effects": "Not recommended for children without medical advice."
+  },
+  {
+    "id": 305,
+    "name": "Grihdhumadi",
+    "category": "Ayurvedic medicine",
+    "uses": "Helps in managing fever and body aches.",
+    "timing": "10-20 ml with equal quantity of water, twice daily after meals.",
+    "side_effects": "Not recommended for children without medical advice."
+  },
+  {
+    "id": 306,
+    "name": "Kachchuradi (Kachchuradi Lepa)",
+    "category": "Ayurvedic medicine",
+    "uses": "Supports urinary health and kidney function.",
+    "timing": "1-2 tablets twice daily after meals with water.",
+    "side_effects": "Generally safe when used as prescribed."
+  },
+  {
+    "id": 307,
+    "name": "Kalk Lepa (Kalk Choorna)",
+    "category": "Ayurvedic medicine",
+    "uses": "Helps manage respiratory disorders and cough.",
+    "timing": "Apply externally twice daily on the affected area.",
+    "side_effects": "Excessive use may cause loose stools."
+  },
+  {
+    "id": 308,
+    "name": "Lepa Guti",
+    "category": "Ayurvedic medicine",
+    "uses": "Supports digestion and improves appetite.",
+    "timing": "1-2 tablets twice daily after meals with water.",
+    "side_effects": "Not recommended for children without medical advice."
+  },
+  {
+    "id": 309,
+    "name": "Pathadi",
+    "category": "Ayurvedic medicine",
+    "uses": "Strengthens the nervous system and boosts memory.",
+    "timing": "As directed by an Ayurvedic physician.",
+    "side_effects": "May cause mild gastric irritation in sensitive individuals."
+  },
+  {
+    "id": 310,
+    "name": "Rasanadi",
+    "category": "Ayurvedic medicine",
+    "uses": "Helps manage respiratory disorders and cough.",
+    "timing": "Apply externally twice daily on the affected area.",
+    "side_effects": "Excessive use may cause loose stools."
+  },
+  {
+    "id": 311,
+    "name": "Rasotmadi",
+    "category": "Ayurvedic medicine",
+    "uses": "Improves strength and stamina; rejuvenates body tissues.",
+    "timing": "5-10 grams with warm water or milk, once or twice daily.",
+    "side_effects": "Generally safe when used as prescribed."
+  },
+  {
+    "id": 312,
+    "name": "Sarshapadi Pralep",
+    "category": "Ayurvedic medicine",
+    "uses": "Improves strength and stamina; rejuvenates body tissues.",
+    "timing": "As directed by an Ayurvedic physician.",
+    "side_effects": "Excessive use may cause loose stools."
+  },
+  {
+    "id": 313,
+    "name": "Sothagn (Doshgn Lepa)",
+    "category": "Ayurvedic medicine",
+    "uses": "Helps in managing fever and body aches.",
+    "timing": "10-20 ml with equal quantity of water, twice daily after meals.",
+    "side_effects": "Avoid during pregnancy and lactation unless prescribed."
+  },
+  {
+    "id": 314,
+    "name": "Tuttadi",
+    "category": "Ayurvedic medicine",
+    "uses": "Strengthens the nervous system and boosts memory.",
+    "timing": "As directed by an Ayurvedic physician.",
+    "side_effects": "Generally safe when used as prescribed."
+  },
+  {
+    "id": 315,
+    "name": "Agnitundi",
+    "category": "Ayurvedic medicine",
+    "uses": "Supports digestion and improves appetite.",
+    "timing": "1-2 tablets twice daily after meals with water.",
+    "side_effects": "Avoid during pregnancy and lactation unless prescribed."
+  },
+  {
+    "id": 316,
+    "name": "Arogyavardhini",
+    "category": "Ayurvedic medicine",
+    "uses": "Used to treat anemia and improve blood formation.",
+    "timing": "1-2 tablets twice daily after meals with water.",
+    "side_effects": "Generally safe when used as prescribed."
+  },
+  {
+    "id": 317,
+    "name": "Astaksati",
+    "category": "Ayurvedic medicine",
+    "uses": "Supports urinary health and kidney function.",
+    "timing": "10-20 ml with equal quantity of water, twice daily after meals.",
+    "side_effects": "Excessive use may cause loose stools."
+  },
+  {
+    "id": 318,
+    "name": "Bilvadi",
+    "category": "Ayurvedic medicine",
+    "uses": "Effective in treating skin diseases and detoxification.",
+    "timing": "10-20 ml with equal quantity of water, twice daily after meals.",
+    "side_effects": "May cause mild gastric irritation in sensitive individuals."
+  },
+  {
+    "id": 319,
+    "name": "Br. Bangeswar",
+    "category": "Ayurvedic medicine",
+    "uses": "Helps manage respiratory disorders and cough.",
+    "timing": "5-10 grams with warm water or milk, once or twice daily.",
+    "side_effects": "May cause mild gastric irritation in sensitive individuals."
+  },
+  {
+    "id": 320,
+    "name": "Brahmi",
+    "category": "Ayurvedic medicine",
+    "uses": "Used in the treatment of piles and constipation.",
+    "timing": "10-20 ml with equal quantity of water, twice daily after meals.",
+    "side_effects": "Avoid during pregnancy and lactation unless prescribed."
+  },
+  {
+    "id": 321,
+    "name": "Chandransu",
+    "category": "Ayurvedic medicine",
+    "uses": "Supports digestion and improves appetite.",
+    "timing": "5-10 grams with warm water or milk, once or twice daily.",
+    "side_effects": "Not recommended for children without medical advice."
+  },
+  {
+    "id": 322,
+    "name": "Chandraprabha",
+    "category": "Ayurvedic medicine",
+    "uses": "Supports digestion and improves appetite.",
+    "timing": "5-10 grams with warm water or milk, once or twice daily.",
+    "side_effects": "Excessive use may cause loose stools."
+  },
+  {
+    "id": 323,
+    "name": "Chaturmukha",
+    "category": "Ayurvedic medicine",
+    "uses": "Strengthens the nervous system and boosts memory.",
+    "timing": "1-2 tablets twice daily after meals with water.",
+    "side_effects": "May cause mild gastric irritation in sensitive individuals."
+  },
+  {
+    "id": 324,
+    "name": "Chitrakadi",
+    "category": "Ayurvedic medicine",
+    "uses": "Helps manage respiratory disorders and cough.",
+    "timing": "As directed by an Ayurvedic physician.",
+    "side_effects": "May cause mild gastric irritation in sensitive individuals."
+  },
+  {
+    "id": 325,
+    "name": "Chukumutti Piplyadi",
+    "category": "Ayurvedic medicine",
+    "uses": "Strengthens the nervous system and boosts memory.",
+    "timing": "Apply externally twice daily on the affected area.",
+    "side_effects": "May cause mild gastric irritation in sensitive individuals."
+  },
+  {
+    "id": 326,
+    "name": "Dhanvantar",
+    "category": "Ayurvedic medicine",
+    "uses": "Strengthens the nervous system and boosts memory.",
+    "timing": "10-20 ml with equal quantity of water, twice daily after meals.",
+    "side_effects": "Not recommended for children without medical advice."
+  },
+  {
+    "id": 327,
+    "name": "Dugdha",
+    "category": "Ayurvedic medicine",
+    "uses": "Supports digestion and improves appetite.",
+    "timing": "5-10 grams with warm water or milk, once or twice daily.",
+    "side_effects": "Excessive use may cause loose stools."
+  },
+  {
+    "id": 328,
+    "name": "Eladi",
+    "category": "Ayurvedic medicine",
+    "uses": "Helps in managing fever and body aches.",
+    "timing": "1-2 tablets twice daily after meals with water.",
+    "side_effects": "Avoid during pregnancy and lactation unless prescribed."
+  },
+  {
+    "id": 329,
+    "name": "Gandhak",
+    "category": "Ayurvedic medicine",
+    "uses": "Effective in treating skin diseases and detoxification.",
+    "timing": "1-2 tablets twice daily after meals with water.",
+    "side_effects": "Generally safe when used as prescribed."
+  },
+  {
+    "id": 330,
+    "name": "Gandhak rasayan",
+    "category": "Ayurvedic medicine",
+    "uses": "Supports digestion and improves appetite.",
+    "timing": "Apply externally twice daily on the affected area.",
+    "side_effects": "May cause mild gastric irritation in sensitive individuals."
+  },
+  {
+    "id": 331,
+    "name": "Garbha Phal",
+    "category": "Ayurvedic medicine",
+    "uses": "Improves strength and stamina; rejuvenates body tissues.",
+    "timing": "5-10 grams with warm water or milk, once or twice daily.",
+    "side_effects": "May cause mild gastric irritation in sensitive individuals."
+  },
+  {
+    "id": 332,
+    "name": "Gorochanadi",
+    "category": "Ayurvedic medicine",
+    "uses": "Strengthens the nervous system and boosts memory.",
+    "timing": "1-2 tablets twice daily after meals with water.",
+    "side_effects": "Avoid during pregnancy and lactation unless prescribed."
+  },
+  {
+    "id": 333,
+    "name": "Kamdugha Rasa",
+    "category": "Ayurvedic medicine",
+    "uses": "Improves strength and stamina; rejuvenates body tissues.",
+    "timing": "5-10 grams with warm water or milk, once or twice daily.",
+    "side_effects": "Generally safe when used as prescribed."
+  },
+  {
+    "id": 334,
+    "name": "Kankayan",
+    "category": "Ayurvedic medicine",
+    "uses": "Supports urinary health and kidney function.",
+    "timing": "5-10 grams with warm water or milk, once or twice daily.",
+    "side_effects": "May cause mild gastric irritation in sensitive individuals."
+  },
+  {
+    "id": 335,
+    "name": "Kasturi Bhairav",
+    "category": "Ayurvedic medicine",
+    "uses": "Used for liver detoxification and improving liver function.",
+    "timing": "1-2 tablets twice daily after meals with water.",
+    "side_effects": "Not recommended for children without medical advice."
+  },
+  {
+    "id": 336,
+    "name": "Kasturyadi (Kasturi rahit)",
+    "category": "Ayurvedic medicine",
+    "uses": "Strengthens the nervous system and boosts memory.",
+    "timing": "10-20 ml with equal quantity of water, twice daily after meals.",
+    "side_effects": "May cause mild gastric irritation in sensitive individuals."
+  },
+  {
+    "id": 337,
+    "name": "Kasturyadi (Vayu Gutik)",
+    "category": "Ayurvedic medicine",
+    "uses": "Used in the treatment of piles and constipation.",
+    "timing": "1-2 tablets twice daily after meals with water.",
+    "side_effects": "Excessive use may cause loose stools."
+  },
+  {
+    "id": 338,
+    "name": "Khadiradi (Kasa)",
+    "category": "Ayurvedic medicine",
+    "uses": "Improves strength and stamina; rejuvenates body tissues.",
+    "timing": "10-20 ml with equal quantity of water, twice daily after meals.",
+    "side_effects": "Avoid during pregnancy and lactation unless prescribed."
+  },
+  {
+    "id": 339,
+    "name": "Khadiradi (Mukharoga)",
+    "category": "Ayurvedic medicine",
+    "uses": "Used for liver detoxification and improving liver function.",
+    "timing": "Apply externally twice daily on the affected area.",
+    "side_effects": "May cause mild gastric irritation in sensitive individuals."
+  },
+  {
+    "id": 340,
+    "name": "Lasunadi",
+    "category": "Ayurvedic medicine",
+    "uses": "Strengthens the nervous system and boosts memory.",
+    "timing": "10-20 ml with equal quantity of water, twice daily after meals.",
+    "side_effects": "Not recommended for children without medical advice."
+  },
+  {
+    "id": 341,
+    "name": "Lavangadi",
+    "category": "Ayurvedic medicine",
+    "uses": "Strengthens the nervous system and boosts memory.",
+    "timing": "Apply externally twice daily on the affected area.",
+    "side_effects": "Generally safe when used as prescribed."
+  },
+  {
+    "id": 342,
+    "name": "Mahashankha",
+    "category": "Ayurvedic medicine",
+    "uses": "Helps manage respiratory disorders and cough.",
+    "timing": "Apply externally twice daily on the affected area.",
+    "side_effects": "Generally safe when used as prescribed."
+  },
+  {
+    "id": 343,
+    "name": "Manasavril",
+    "category": "Ayurvedic medicine",
+    "uses": "Supports urinary health and kidney function.",
+    "timing": "1-2 tablets twice daily after meals with water.",
+    "side_effects": "Avoid during pregnancy and lactation unless prescribed."
+  },
+  {
+    "id": 344,
+    "name": "Marichadi",
+    "category": "Ayurvedic medicine",
+    "uses": "Improves strength and stamina; rejuvenates body tissues.",
+    "timing": "As directed by an Ayurvedic physician.",
+    "side_effects": "Not recommended for children without medical advice."
+  },
+  {
+    "id": 345,
+    "name": "Marm",
+    "category": "Ayurvedic medicine",
+    "uses": "Strengthens the nervous system and boosts memory.",
+    "timing": "Apply externally twice daily on the affected area.",
+    "side_effects": "May cause mild gastric irritation in sensitive individuals."
+  },
+  {
+    "id": 346,
+    "name": "Mrit Sanjivani",
+    "category": "Ayurvedic medicine",
+    "uses": "Effective in treating skin diseases and detoxification.",
+    "timing": "10-20 ml with equal quantity of water, twice daily after meals.",
+    "side_effects": "Excessive use may cause loose stools."
+  },
+  {
+    "id": 347,
+    "name": "Nagarjunbhram",
+    "category": "Ayurvedic medicine",
+    "uses": "Helps manage respiratory disorders and cough.",
+    "timing": "10-20 ml with equal quantity of water, twice daily after meals.",
+    "side_effects": "Avoid during pregnancy and lactation unless prescribed."
+  },
+  {
+    "id": 348,
+    "name": "Navjeevan Rasa",
+    "category": "Ayurvedic medicine",
+    "uses": "Supports digestion and improves appetite.",
+    "timing": "1-2 tablets twice daily after meals with water.",
+    "side_effects": "Not recommended for children without medical advice."
+  },
+  {
+    "id": 349,
+    "name": "Nityanand Rasa",
+    "category": "Ayurvedic medicine",
+    "uses": "Supports digestion and improves appetite.",
+    "timing": "Apply externally twice daily on the affected area.",
+    "side_effects": "Not recommended for children without medical advice."
+  },
+  {
+    "id": 350,
+    "name": "Nityodit Rasa",
+    "category": "Ayurvedic medicine",
+    "uses": "Supports digestion and improves appetite.",
+    "timing": "Apply externally twice daily on the affected area.",
+    "side_effects": "May cause mild gastric irritation in sensitive individuals."
+  },
+  {
+    "id": 351,
+    "name": "Plihari",
+    "category": "Ayurvedic medicine",
+    "uses": "Effective in treating skin diseases and detoxification.",
+    "timing": "As directed by an Ayurvedic physician.",
+    "side_effects": "Avoid during pregnancy and lactation unless prescribed."
+  },
+  {
+    "id": 352,
+    "name": "Prabhakar",
+    "category": "Ayurvedic medicine",
+    "uses": "Supports urinary health and kidney function.",
+    "timing": "5-10 grams with warm water or milk, once or twice daily.",
+    "side_effects": "May cause mild gastric irritation in sensitive individuals."
+  },
+  {
+    "id": 353,
+    "name": "Pranda",
+    "category": "Ayurvedic medicine",
+    "uses": "Used in the treatment of piles and constipation.",
+    "timing": "As directed by an Ayurvedic physician.",
+    "side_effects": "Not recommended for children without medical advice."
+  },
+  {
+    "id": 354,
+    "name": "Praval Panchamrita",
+    "category": "Ayurvedic medicine",
+    "uses": "Supports urinary health and kidney function.",
+    "timing": "10-20 ml with equal quantity of water, twice daily after meals.",
+    "side_effects": "Excessive use may cause loose stools."
+  },
+  {
+    "id": 355,
+    "name": "Rajah Pravartini",
+    "category": "Ayurvedic medicine",
+    "uses": "Strengthens the nervous system and boosts memory.",
+    "timing": "1-2 tablets twice daily after meals with water.",
+    "side_effects": "Generally safe when used as prescribed."
+  },
+  {
+    "id": 356,
+    "name": "Raktapitantak (Lauha)",
+    "category": "Ayurvedic medicine",
+    "uses": "Improves strength and stamina; rejuvenates body tissues.",
+    "timing": "As directed by an Ayurvedic physician.",
+    "side_effects": "Not recommended for children without medical advice."
+  },
+  {
+    "id": 357,
+    "name": "Ras Pippali",
+    "category": "Ayurvedic medicine",
+    "uses": "Used in the treatment of piles and constipation.",
+    "timing": "1-2 tablets twice daily after meals with water.",
+    "side_effects": "Generally safe when used as prescribed."
+  },
+  {
+    "id": 358,
+    "name": "Sanjivani",
+    "category": "Ayurvedic medicine",
+    "uses": "Supports digestion and improves appetite.",
+    "timing": "10-20 ml with equal quantity of water, twice daily after meals.",
+    "side_effects": "May cause mild gastric irritation in sensitive individuals."
+  },
+  {
+    "id": 359,
+    "name": "Sarivadi",
+    "category": "Ayurvedic medicine",
+    "uses": "Helps in managing fever and body aches.",
+    "timing": "10-20 ml with equal quantity of water, twice daily after meals.",
+    "side_effects": "Avoid during pregnancy and lactation unless prescribed."
+  },
+  {
+    "id": 360,
+    "name": "Saubhagya",
+    "category": "Ayurvedic medicine",
+    "uses": "Strengthens the nervous system and boosts memory.",
+    "timing": "1-2 tablets twice daily after meals with water.",
+    "side_effects": "Not recommended for children without medical advice."
+  },
+  {
+    "id": 361,
+    "name": "Shankha",
+    "category": "Ayurvedic medicine",
+    "uses": "Used in the treatment of piles and constipation.",
+    "timing": "10-20 ml with equal quantity of water, twice daily after meals.",
+    "side_effects": "Excessive use may cause loose stools."
+  },
+  {
+    "id": 362,
+    "name": "Shiv (Laghu)",
+    "category": "Ayurvedic medicine",
+    "uses": "Used in the treatment of piles and constipation.",
+    "timing": "As directed by an Ayurvedic physician.",
+    "side_effects": "Not recommended for children without medical advice."
+  },
+  {
+    "id": 363,
+    "name": "Shool Vajrani",
+    "category": "Ayurvedic medicine",
+    "uses": "Supports urinary health and kidney function.",
+    "timing": "As directed by an Ayurvedic physician.",
+    "side_effects": "Not recommended for children without medical advice."
+  },
+  {
+    "id": 364,
+    "name": "Shoolharan Yog",
+    "category": "Ayurvedic medicine",
+    "uses": "Effective in treating skin diseases and detoxification.",
+    "timing": "As directed by an Ayurvedic physician.",
+    "side_effects": "May cause mild gastric irritation in sensitive individuals."
+  },
+  {
+    "id": 365,
+    "name": "Shringrabhra Rasa",
+    "category": "Ayurvedic medicine",
+    "uses": "Used for liver detoxification and improving liver function.",
+    "timing": "10-20 ml with equal quantity of water, twice daily after meals.",
+    "side_effects": "Excessive use may cause loose stools."
+  },
+  {
+    "id": 366,
+    "name": "Sooram Vatak",
+    "category": "Ayurvedic medicine",
+    "uses": "Effective in treating skin diseases and detoxification.",
+    "timing": "As directed by an Ayurvedic physician.",
+    "side_effects": "Not recommended for children without medical advice."
+  },
+  {
+    "id": 367,
+    "name": "Smritisagar Rasa",
+    "category": "Ayurvedic medicine",
+    "uses": "Used for liver detoxification and improving liver function.",
+    "timing": "As directed by an Ayurvedic physician.",
+    "side_effects": "Not recommended for children without medical advice."
+  },
+  {
+    "id": 368,
+    "name": "Sootshekhar (Swarna Rahit)",
+    "category": "Ayurvedic medicine",
+    "uses": "Strengthens the nervous system and boosts memory.",
+    "timing": "As directed by an Ayurvedic physician.",
+    "side_effects": "Avoid during pregnancy and lactation unless prescribed."
+  },
+  {
+    "id": 369,
+    "name": "Sootshekhar (Swarna Bhasma Rahit )",
+    "category": "Ayurvedic medicine",
+    "uses": "Strengthens the nervous system and boosts memory.",
+    "timing": "10-20 ml with equal quantity of water, twice daily after meals.",
+    "side_effects": "Not recommended for children without medical advice."
+  },
+  {
+    "id": 370,
+    "name": "Sukramatrak",
+    "category": "Ayurvedic medicine",
+    "uses": "Used for liver detoxification and improving liver function.",
+    "timing": "Apply externally twice daily on the affected area.",
+    "side_effects": "Avoid during pregnancy and lactation unless prescribed."
+  },
+  {
+    "id": 371,
+    "name": "Swaskasa Chintamani",
+    "category": "Ayurvedic medicine",
+    "uses": "Supports urinary health and kidney function.",
+    "timing": "10-20 ml with equal quantity of water, twice daily after meals.",
+    "side_effects": "Generally safe when used as prescribed."
+  },
+  {
+    "id": 372,
+    "name": "Vedantak",
+    "category": "Ayurvedic medicine",
+    "uses": "Used in the treatment of piles and constipation.",
+    "timing": "1-2 tablets twice daily after meals with water.",
+    "side_effects": "Not recommended for children without medical advice."
+  },
+  {
+    "id": 373,
+    "name": "Vishtinduk",
+    "category": "Ayurvedic medicine",
+    "uses": "Effective in treating skin diseases and detoxification.",
+    "timing": "Apply externally twice daily on the affected area.",
+    "side_effects": "Generally safe when used as prescribed."
+  },
+  {
+    "id": 374,
+    "name": "Yakrit Shool Vinasiki",
+    "category": "Ayurvedic medicine",
+    "uses": "Strengthens the nervous system and boosts memory.",
+    "timing": "1-2 tablets twice daily after meals with water.",
+    "side_effects": "Generally safe when used as prescribed."
+  },
+  {
+    "id": 375,
+    "name": "Sansamni Vati (Guduchighan Vati)",
+    "category": "Ayurvedic medicine",
+    "uses": "Improves strength and stamina; rejuvenates body tissues.",
+    "timing": "5-10 grams with warm water or milk, once or twice daily.",
+    "side_effects": "Generally safe when used as prescribed."
+  },
+  {
+    "id": 376,
+    "name": "Brahmi Vati",
+    "category": "Ayurvedic medicine",
+    "uses": "Supports urinary health and kidney function.",
+    "timing": "1-2 tablets twice daily after meals with water.",
+    "side_effects": "Not recommended for children without medical advice."
+  },
+  {
+    "id": 377,
+    "name": "Alanit Kujamb (Neelikeranjan)",
+    "category": "Ayurvedic medicine",
+    "uses": "Used for liver detoxification and improving liver function.",
+    "timing": "5-10 grams with warm water or milk, once or twice daily.",
+    "side_effects": "Generally safe when used as prescribed."
+  },
+  {
+    "id": 378,
+    "name": "Chandrodaya",
+    "category": "Ayurvedic medicine",
+    "uses": "Helps manage respiratory disorders and cough.",
+    "timing": "1-2 tablets twice daily after meals with water.",
+    "side_effects": "May cause mild gastric irritation in sensitive individuals."
+  },
+  {
+    "id": 379,
+    "name": "Danta verti",
+    "category": "Ayurvedic medicine",
+    "uses": "Improves strength and stamina; rejuvenates body tissues.",
+    "timing": "Apply externally twice daily on the affected area.",
+    "side_effects": "May cause mild gastric irritation in sensitive individuals."
+  },
+  {
+    "id": 380,
+    "name": "Karpuradi Kujambu",
+    "category": "Ayurvedic medicine",
+    "uses": "Used for liver detoxification and improving liver function.",
+    "timing": "As directed by an Ayurvedic physician.",
+    "side_effects": "Not recommended for children without medical advice."
+  },
+  {
+    "id": 381,
+    "name": "Kaysthaya",
+    "category": "Ayurvedic medicine",
+    "uses": "Helps manage respiratory disorders and cough.",
+    "timing": "1-2 tablets twice daily after meals with water.",
+    "side_effects": "Excessive use may cause loose stools."
+  },
+  {
+    "id": 382,
+    "name": "Krishnanjan",
+    "category": "Ayurvedic medicine",
+    "uses": "Helps manage respiratory disorders and cough.",
+    "timing": "10-20 ml with equal quantity of water, twice daily after meals.",
+    "side_effects": "Not recommended for children without medical advice."
+  },
+  {
+    "id": 383,
+    "name": "Muktadim hanjan",
+    "category": "Ayurvedic medicine",
+    "uses": "Supports urinary health and kidney function.",
+    "timing": "1-2 tablets twice daily after meals with water.",
+    "side_effects": "May cause mild gastric irritation in sensitive individuals."
+  },
+  {
+    "id": 384,
+    "name": "Tamradi Gutika",
+    "category": "Ayurvedic medicine",
+    "uses": "Supports digestion and improves appetite.",
+    "timing": "5-10 grams with warm water or milk, once or twice daily.",
+    "side_effects": "Generally safe when used as prescribed."
+  },
+  {
+    "id": 385,
+    "name": "Vimal Verti",
+    "category": "Ayurvedic medicine",
+    "uses": "Supports urinary health and kidney function.",
+    "timing": "Apply externally twice daily on the affected area.",
+    "side_effects": "May cause mild gastric irritation in sensitive individuals."
+  },
+  {
+    "id": 386,
+    "name": "Gduchi Satva",
+    "category": "Ayurvedic medicine",
+    "uses": "Strengthens the nervous system and boosts memory.",
+    "timing": "5-10 grams with warm water or milk, once or twice daily.",
+    "side_effects": "Generally safe when used as prescribed."
+  },
+  {
+    "id": 387,
+    "name": "Makardhwaj",
+    "category": "Ayurvedic medicine",
+    "uses": "Effective in treating skin diseases and detoxification.",
+    "timing": "10-20 ml with equal quantity of water, twice daily after meals.",
+    "side_effects": "May cause mild gastric irritation in sensitive individuals."
+  },
+  {
+    "id": 388,
+    "name": "Mallsindoor",
+    "category": "Ayurvedic medicine",
+    "uses": "Helps manage respiratory disorders and cough.",
+    "timing": "As directed by an Ayurvedic physician.",
+    "side_effects": "May cause mild gastric irritation in sensitive individuals."
+  },
+  {
+    "id": 389,
+    "name": "Rasapushpa",
+    "category": "Ayurvedic medicine",
+    "uses": "Helps in managing fever and body aches.",
+    "timing": "As directed by an Ayurvedic physician.",
+    "side_effects": "Excessive use may cause loose stools."
+  },
+  {
+    "id": 390,
+    "name": "Rashsindoor",
+    "category": "Ayurvedic medicine",
+    "uses": "Effective in treating skin diseases and detoxification.",
+    "timing": "As directed by an Ayurvedic physician.",
+    "side_effects": "Not recommended for children without medical advice."
+  },
+  {
+    "id": 391,
+    "name": "Raskarpur",
+    "category": "Ayurvedic medicine",
+    "uses": "Supports digestion and improves appetite.",
+    "timing": "As directed by an Ayurvedic physician.",
+    "side_effects": "Excessive use may cause loose stools."
+  },
+  {
+    "id": 392,
+    "name": "Swarna Sindoor",
+    "category": "Ayurvedic medicine",
+    "uses": "Helps manage respiratory disorders and cough.",
+    "timing": "Apply externally twice daily on the affected area.",
+    "side_effects": "Not recommended for children without medical advice."
+  },
+  {
+    "id": 393,
+    "name": "Swarnabang",
+    "category": "Ayurvedic medicine",
+    "uses": "Used for liver detoxification and improving liver function.",
+    "timing": "1-2 tablets twice daily after meals with water.",
+    "side_effects": "Avoid during pregnancy and lactation unless prescribed."
+  },
+  {
+    "id": 394,
+    "name": "Bol",
+    "category": "Ayurvedic medicine",
+    "uses": "Supports digestion and improves appetite.",
+    "timing": "1-2 tablets twice daily after meals with water.",
+    "side_effects": "Not recommended for children without medical advice."
+  },
+  {
+    "id": 395,
+    "name": "Lauha",
+    "category": "Ayurvedic medicine",
+    "uses": "Effective in treating skin diseases and detoxification.",
+    "timing": "Apply externally twice daily on the affected area.",
+    "side_effects": "Avoid during pregnancy and lactation unless prescribed."
+  },
+  {
+    "id": 396,
+    "name": "Panchamrita",
+    "category": "Ayurvedic medicine",
+    "uses": "Used in the treatment of piles and constipation.",
+    "timing": "10-20 ml with equal quantity of water, twice daily after meals.",
+    "side_effects": "Not recommended for children without medical advice."
+  },
+  {
+    "id": 397,
+    "name": "Rasa",
+    "category": "Ayurvedic medicine",
+    "uses": "Helps in managing fever and body aches.",
+    "timing": "Apply externally twice daily on the affected area.",
+    "side_effects": "May cause mild gastric irritation in sensitive individuals."
+  },
+  {
+    "id": 398,
+    "name": "Swarna",
+    "category": "Ayurvedic medicine",
+    "uses": "Used in the treatment of piles and constipation.",
+    "timing": "As directed by an Ayurvedic physician.",
+    "side_effects": "May cause mild gastric irritation in sensitive individuals."
+  },
+  {
+    "id": 399,
+    "name": "Swet",
+    "category": "Ayurvedic medicine",
+    "uses": "Supports digestion and improves appetite.",
+    "timing": "As directed by an Ayurvedic physician.",
+    "side_effects": "Excessive use may cause loose stools."
+  },
+  {
+    "id": 400,
+    "name": "Akik",
+    "category": "Ayurvedic medicine",
+    "uses": "Improves strength and stamina; rejuvenates body tissues.",
+    "timing": "Apply externally twice daily on the affected area.",
+    "side_effects": "May cause mild gastric irritation in sensitive individuals."
+  },
+  {
+    "id": 401,
+    "name": "Manikya",
+    "category": "Ayurvedic medicine",
+    "uses": "Supports digestion and improves appetite.",
+    "timing": "Apply externally twice daily on the affected area.",
+    "side_effects": "Avoid during pregnancy and lactation unless prescribed."
+  },
+  {
+    "id": 402,
+    "name": "MuktaPraval",
+    "category": "Ayurvedic medicine",
+    "uses": "Helps in managing fever and body aches.",
+    "timing": "Apply externally twice daily on the affected area.",
+    "side_effects": "May cause mild gastric irritation in sensitive individuals."
+  },
+  {
+    "id": 403,
+    "name": "Praval",
+    "category": "Ayurvedic medicine",
+    "uses": "Used for liver detoxification and improving liver function.",
+    "timing": "5-10 grams with warm water or milk, once or twice daily.",
+    "side_effects": "May cause mild gastric irritation in sensitive individuals."
+  },
+  {
+    "id": 404,
+    "name": "Sangeyahood (Hajruyahood)",
+    "category": "Ayurvedic medicine",
+    "uses": "Used for liver detoxification and improving liver function.",
+    "timing": "1-2 tablets twice daily after meals with water.",
+    "side_effects": "Avoid during pregnancy and lactation unless prescribed."
+  },
+  {
+    "id": 405,
+    "name": "Trinkantmani",
+    "category": "Ayurvedic medicine",
+    "uses": "Supports urinary health and kidney function.",
+    "timing": "5-10 grams with warm water or milk, once or twice daily.",
+    "side_effects": "Avoid during pregnancy and lactation unless prescribed."
+  },
+  {
+    "id": 406,
+    "name": "Trinkantmani (Kahurava",
+    "category": "Ayurvedic medicine",
+    "uses": "Supports urinary health and kidney function.",
+    "timing": "1-2 tablets twice daily after meals with water.",
+    "side_effects": "Excessive use may cause loose stools."
+  },
+  {
+    "id": 407,
+    "name": "Zahar Mohra",
+    "category": "Ayurvedic medicine",
+    "uses": "Improves strength and stamina; rejuvenates body tissues.",
+    "timing": "10-20 ml with equal quantity of water, twice daily after meals.",
+    "side_effects": "Generally safe when used as prescribed."
+  },
+  {
+    "id": 408,
+    "name": "Abhrak",
+    "category": "Ayurvedic medicine",
+    "uses": "Improves strength and stamina; rejuvenates body tissues.",
+    "timing": "10-20 ml with equal quantity of water, twice daily after meals.",
+    "side_effects": "Avoid during pregnancy and lactation unless prescribed."
+  },
+  {
+    "id": 409,
+    "name": "Bang",
+    "category": "Ayurvedic medicine",
+    "uses": "Improves strength and stamina; rejuvenates body tissues.",
+    "timing": "As directed by an Ayurvedic physician.",
+    "side_effects": "Not recommended for children without medical advice."
+  },
+  {
+    "id": 410,
+    "name": "Godanti",
+    "category": "Ayurvedic medicine",
+    "uses": "Supports digestion and improves appetite.",
+    "timing": "Apply externally twice daily on the affected area.",
+    "side_effects": "Not recommended for children without medical advice."
+  },
+  {
+    "id": 411,
+    "name": "Hartal",
+    "category": "Ayurvedic medicine",
+    "uses": "Used to treat anemia and improve blood formation.",
+    "timing": "As directed by an Ayurvedic physician.",
+    "side_effects": "Avoid during pregnancy and lactation unless prescribed."
+  },
+  {
+    "id": 412,
+    "name": "Kantlauha",
+    "category": "Ayurvedic medicine",
+    "uses": "Effective in treating skin diseases and detoxification.",
+    "timing": "Apply externally twice daily on the affected area.",
+    "side_effects": "Generally safe when used as prescribed."
+  },
+  {
+    "id": 413,
+    "name": "Kapardika",
+    "category": "Ayurvedic medicine",
+    "uses": "Strengthens the nervous system and boosts memory.",
+    "timing": "10-20 ml with equal quantity of water, twice daily after meals.",
+    "side_effects": "Generally safe when used as prescribed."
+  },
+  {
+    "id": 414,
+    "name": "Kasis",
+    "category": "Ayurvedic medicine",
+    "uses": "Supports digestion and improves appetite.",
+    "timing": "As directed by an Ayurvedic physician.",
+    "side_effects": "Avoid during pregnancy and lactation unless prescribed."
+  },
+  {
+    "id": 415,
+    "name": "Kukkutantak",
+    "category": "Ayurvedic medicine",
+    "uses": "Used to treat anemia and improve blood formation.",
+    "timing": "10-20 ml with equal quantity of water, twice daily after meals.",
+    "side_effects": "May cause mild gastric irritation in sensitive individuals."
+  },
+  {
+    "id": 416,
+    "name": "Lauha",
+    "category": "Ayurvedic medicine",
+    "uses": "Strengthens the nervous system and boosts memory.",
+    "timing": "Apply externally twice daily on the affected area.",
+    "side_effects": "Not recommended for children without medical advice."
+  },
+  {
+    "id": 417,
+    "name": "Mandoor",
+    "category": "Ayurvedic medicine",
+    "uses": "Used for liver detoxification and improving liver function.",
+    "timing": "10-20 ml with equal quantity of water, twice daily after meals.",
+    "side_effects": "Excessive use may cause loose stools."
+  },
+  {
+    "id": 418,
+    "name": "Mayur Pichcha",
+    "category": "Ayurvedic medicine",
+    "uses": "Helps manage respiratory disorders and cough.",
+    "timing": "5-10 grams with warm water or milk, once or twice daily.",
+    "side_effects": "Generally safe when used as prescribed."
+  },
+  {
+    "id": 419,
+    "name": "Mukta",
+    "category": "Ayurvedic medicine",
+    "uses": "Effective in treating skin diseases and detoxification.",
+    "timing": "5-10 grams with warm water or milk, once or twice daily.",
+    "side_effects": "Excessive use may cause loose stools."
+  },
+  {
+    "id": 420,
+    "name": "Mukta",
+    "category": "Ayurvedic medicine",
+    "uses": "Supports digestion and improves appetite.",
+    "timing": "As directed by an Ayurvedic physician.",
+    "side_effects": "Excessive use may cause loose stools."
+  },
+  {
+    "id": 421,
+    "name": "Muktasukti",
+    "category": "Ayurvedic medicine",
+    "uses": "Used to treat anemia and improve blood formation.",
+    "timing": "Apply externally twice daily on the affected area.",
+    "side_effects": "May cause mild gastric irritation in sensitive individuals."
+  },
+  {
+    "id": 422,
+    "name": "Nag",
+    "category": "Ayurvedic medicine",
+    "uses": "Supports digestion and improves appetite.",
+    "timing": "Apply externally twice daily on the affected area.",
+    "side_effects": "Generally safe when used as prescribed."
+  },
+  {
+    "id": 423,
+    "name": "Praval",
+    "category": "Ayurvedic medicine",
+    "uses": "Used to treat anemia and improve blood formation.",
+    "timing": "As directed by an Ayurvedic physician.",
+    "side_effects": "May cause mild gastric irritation in sensitive individuals."
+  },
+  {
+    "id": 424,
+    "name": "Rajar",
+    "category": "Ayurvedic medicine",
+    "uses": "Improves strength and stamina; rejuvenates body tissues.",
+    "timing": "10-20 ml with equal quantity of water, twice daily after meals.",
+    "side_effects": "May cause mild gastric irritation in sensitive individuals."
+  },
+  {
+    "id": 425,
+    "name": "Shankha",
+    "category": "Ayurvedic medicine",
+    "uses": "Used in the treatment of piles and constipation.",
+    "timing": "5-10 grams with warm water or milk, once or twice daily.",
+    "side_effects": "May cause mild gastric irritation in sensitive individuals."
+  },
+  {
+    "id": 426,
+    "name": "Shring",
+    "category": "Ayurvedic medicine",
+    "uses": "Used for liver detoxification and improving liver function.",
+    "timing": "Apply externally twice daily on the affected area.",
+    "side_effects": "May cause mild gastric irritation in sensitive individuals."
+  },
+  {
+    "id": 427,
+    "name": "Spahatika",
+    "category": "Ayurvedic medicine",
+    "uses": "Helps in managing fever and body aches.",
+    "timing": "Apply externally twice daily on the affected area.",
+    "side_effects": "May cause mild gastric irritation in sensitive individuals."
+  },
+  {
+    "id": 428,
+    "name": "Swarna",
+    "category": "Ayurvedic medicine",
+    "uses": "Strengthens the nervous system and boosts memory.",
+    "timing": "5-10 grams with warm water or milk, once or twice daily.",
+    "side_effects": "Excessive use may cause loose stools."
+  },
+  {
+    "id": 429,
+    "name": "Swarnamashik",
+    "category": "Ayurvedic medicine",
+    "uses": "Helps manage respiratory disorders and cough.",
+    "timing": "5-10 grams with warm water or milk, once or twice daily.",
+    "side_effects": "Not recommended for children without medical advice."
+  },
+  {
+    "id": 430,
+    "name": "Tamra",
+    "category": "Ayurvedic medicine",
+    "uses": "Helps manage respiratory disorders and cough.",
+    "timing": "1-2 tablets twice daily after meals with water.",
+    "side_effects": "Generally safe when used as prescribed."
+  },
+  {
+    "id": 431,
+    "name": "Tankan",
+    "category": "Ayurvedic medicine",
+    "uses": "Supports urinary health and kidney function.",
+    "timing": "10-20 ml with equal quantity of water, twice daily after meals.",
+    "side_effects": "Generally safe when used as prescribed."
+  },
+  {
+    "id": 432,
+    "name": "Trivang",
+    "category": "Ayurvedic medicine",
+    "uses": "Supports digestion and improves appetite.",
+    "timing": "5-10 grams with warm water or milk, once or twice daily.",
+    "side_effects": "May cause mild gastric irritation in sensitive individuals."
+  },
+  {
+    "id": 433,
+    "name": "Vajra",
+    "category": "Ayurvedic medicine",
+    "uses": "Strengthens the nervous system and boosts memory.",
+    "timing": "Apply externally twice daily on the affected area.",
+    "side_effects": "Avoid during pregnancy and lactation unless prescribed."
+  },
+  {
+    "id": 434,
+    "name": "Vekranta",
+    "category": "Ayurvedic medicine",
+    "uses": "Used for liver detoxification and improving liver function.",
+    "timing": "5-10 grams with warm water or milk, once or twice daily.",
+    "side_effects": "Avoid during pregnancy and lactation unless prescribed."
+  },
+  {
+    "id": 435,
+    "name": "Yashad",
+    "category": "Ayurvedic medicine",
+    "uses": "Improves strength and stamina; rejuvenates body tissues.",
+    "timing": "10-20 ml with equal quantity of water, twice daily after meals.",
+    "side_effects": "Avoid during pregnancy and lactation unless prescribed."
+  },
+  {
+    "id": 436,
+    "name": "Mandoor Vatak",
+    "category": "Ayurvedic medicine",
+    "uses": "Used for liver detoxification and improving liver function.",
+    "timing": "10-20 ml with equal quantity of water, twice daily after meals.",
+    "side_effects": "Not recommended for children without medical advice."
+  },
+  {
+    "id": 437,
+    "name": "Punarnavadi",
+    "category": "Ayurvedic medicine",
+    "uses": "Helps in managing fever and body aches.",
+    "timing": "Apply externally twice daily on the affected area.",
+    "side_effects": "Excessive use may cause loose stools."
+  },
+  {
+    "id": 438,
+    "name": "Satavari",
+    "category": "Ayurvedic medicine",
+    "uses": "Used to treat anemia and improve blood formation.",
+    "timing": "Apply externally twice daily on the affected area.",
+    "side_effects": "Generally safe when used as prescribed."
+  },
+  {
+    "id": 439,
+    "name": "Ekangveer",
+    "category": "Ayurvedic medicine",
+    "uses": "Used to treat anemia and improve blood formation.",
+    "timing": "As directed by an Ayurvedic physician.",
+    "side_effects": "Excessive use may cause loose stools."
+  },
+  {
+    "id": 440,
+    "name": "Amlapittantak",
+    "category": "Ayurvedic medicine",
+    "uses": "Helps manage respiratory disorders and cough.",
+    "timing": "5-10 grams with warm water or milk, once or twice daily.",
+    "side_effects": "Not recommended for children without medical advice."
+  },
+  {
+    "id": 441,
+    "name": "Anand Bhairav",
+    "category": "Ayurvedic medicine",
+    "uses": "Effective in treating skin diseases and detoxification.",
+    "timing": "Apply externally twice daily on the affected area.",
+    "side_effects": "Excessive use may cause loose stools."
+  },
+  {
+    "id": 442,
+    "name": "Ashvakchuki",
+    "category": "Ayurvedic medicine",
+    "uses": "Effective in treating skin diseases and detoxification.",
+    "timing": "5-10 grams with warm water or milk, once or twice daily.",
+    "side_effects": "Avoid during pregnancy and lactation unless prescribed."
+  },
+  {
+    "id": 443,
+    "name": "Basant Kusumakar",
+    "category": "Ayurvedic medicine",
+    "uses": "Effective in treating skin diseases and detoxification.",
+    "timing": "Apply externally twice daily on the affected area.",
+    "side_effects": "Avoid during pregnancy and lactation unless prescribed."
+  },
+  {
+    "id": 444,
+    "name": "Basant Malti",
+    "category": "Ayurvedic medicine",
+    "uses": "Helps manage respiratory disorders and cough.",
+    "timing": "As directed by an Ayurvedic physician.",
+    "side_effects": "Generally safe when used as prescribed."
+  },
+  {
+    "id": 445,
+    "name": "Br. Garbhachintamani",
+    "category": "Ayurvedic medicine",
+    "uses": "Used for liver detoxification and improving liver function.",
+    "timing": "10-20 ml with equal quantity of water, twice daily after meals.",
+    "side_effects": "Generally safe when used as prescribed."
+  },
+  {
+    "id": 446,
+    "name": "Br. Kasturi Bhairav",
+    "category": "Ayurvedic medicine",
+    "uses": "Supports urinary health and kidney function.",
+    "timing": "10-20 ml with equal quantity of water, twice daily after meals.",
+    "side_effects": "Avoid during pregnancy and lactation unless prescribed."
+  },
+  {
+    "id": 447,
+    "name": "Br. Nripballabh",
+    "category": "Ayurvedic medicine",
+    "uses": "Improves strength and stamina; rejuvenates body tissues.",
+    "timing": "5-10 grams with warm water or milk, once or twice daily.",
+    "side_effects": "Generally safe when used as prescribed."
+  },
+  {
+    "id": 448,
+    "name": "Br. Vatchintamani",
+    "category": "Ayurvedic medicine",
+    "uses": "Supports urinary health and kidney function.",
+    "timing": "5-10 grams with warm water or milk, once or twice daily.",
+    "side_effects": "May cause mild gastric irritation in sensitive individuals."
+  },
+  {
+    "id": 449,
+    "name": "Chandrakala",
+    "category": "Ayurvedic medicine",
+    "uses": "Used for liver detoxification and improving liver function.",
+    "timing": "1-2 tablets twice daily after meals with water.",
+    "side_effects": "Excessive use may cause loose stools."
+  },
+  {
+    "id": 450,
+    "name": "Chandramrita",
+    "category": "Ayurvedic medicine",
+    "uses": "Effective in treating skin diseases and detoxification.",
+    "timing": "10-20 ml with equal quantity of water, twice daily after meals.",
+    "side_effects": "Generally safe when used as prescribed."
+  },
+  {
+    "id": 451,
+    "name": "Chaturbhuj",
+    "category": "Ayurvedic medicine",
+    "uses": "Helps in managing fever and body aches.",
+    "timing": "1-2 tablets twice daily after meals with water.",
+    "side_effects": "May cause mild gastric irritation in sensitive individuals."
+  },
+  {
+    "id": 452,
+    "name": "Chaturmukha",
+    "category": "Ayurvedic medicine",
+    "uses": "Effective in treating skin diseases and detoxification.",
+    "timing": "As directed by an Ayurvedic physician.",
+    "side_effects": "Not recommended for children without medical advice."
+  },
+  {
+    "id": 453,
+    "name": "Chintamani Chaturmukha",
+    "category": "Ayurvedic medicine",
+    "uses": "Used in the treatment of piles and constipation.",
+    "timing": "As directed by an Ayurvedic physician.",
+    "side_effects": "Excessive use may cause loose stools."
+  },
+  {
+    "id": 454,
+    "name": "Gagansunder",
+    "category": "Ayurvedic medicine",
+    "uses": "Used to treat anemia and improve blood formation.",
+    "timing": "1-2 tablets twice daily after meals with water.",
+    "side_effects": "Not recommended for children without medical advice."
+  },
+  {
+    "id": 455,
+    "name": "Gorochanadi",
+    "category": "Ayurvedic medicine",
+    "uses": "Used for liver detoxification and improving liver function.",
+    "timing": "As directed by an Ayurvedic physician.",
+    "side_effects": "Not recommended for children without medical advice."
+  },
+  {
+    "id": 456,
+    "name": "Hradayanav",
+    "category": "Ayurvedic medicine",
+    "uses": "Effective in treating skin diseases and detoxification.",
+    "timing": "Apply externally twice daily on the affected area.",
+    "side_effects": "Generally safe when used as prescribed."
+  },
+  {
+    "id": 457,
+    "name": "Ichcabhedi",
+    "category": "Ayurvedic medicine",
+    "uses": "Used to treat anemia and improve blood formation.",
+    "timing": "As directed by an Ayurvedic physician.",
+    "side_effects": "May cause mild gastric irritation in sensitive individuals."
+  },
+  {
+    "id": 458,
+    "name": "Jvararybhra",
+    "category": "Ayurvedic medicine",
+    "uses": "Used in the treatment of piles and constipation.",
+    "timing": "Apply externally twice daily on the affected area.",
+    "side_effects": "Generally safe when used as prescribed."
+  },
+  {
+    "id": 459,
+    "name": "Kalketu",
+    "category": "Ayurvedic medicine",
+    "uses": "Used for liver detoxification and improving liver function.",
+    "timing": "As directed by an Ayurvedic physician.",
+    "side_effects": "May cause mild gastric irritation in sensitive individuals."
+  },
+  {
+    "id": 460,
+    "name": "Karpur Rasa",
+    "category": "Ayurvedic medicine",
+    "uses": "Strengthens the nervous system and boosts memory.",
+    "timing": "5-10 grams with warm water or milk, once or twice daily.",
+    "side_effects": "Excessive use may cause loose stools."
+  },
+  {
+    "id": 461,
+    "name": "Kasturi Bhairav (Kasturi Rahit)",
+    "category": "Ayurvedic medicine",
+    "uses": "Helps in managing fever and body aches.",
+    "timing": "10-20 ml with equal quantity of water, twice daily after meals.",
+    "side_effects": "Avoid during pregnancy and lactation unless prescribed."
+  },
+  {
+    "id": 462,
+    "name": "Krimimudgar",
+    "category": "Ayurvedic medicine",
+    "uses": "Used in the treatment of piles and constipation.",
+    "timing": "Apply externally twice daily on the affected area.",
+    "side_effects": "Avoid during pregnancy and lactation unless prescribed."
+  },
+  {
+    "id": 463,
+    "name": "Krishna Chaturmukha",
+    "category": "Ayurvedic medicine",
+    "uses": "Used to treat anemia and improve blood formation.",
+    "timing": "Apply externally twice daily on the affected area.",
+    "side_effects": "Excessive use may cause loose stools."
+  },
+  {
+    "id": 464,
+    "name": "Kumarkalyan",
+    "category": "Ayurvedic medicine",
+    "uses": "Helps in managing fever and body aches.",
+    "timing": "Apply externally twice daily on the affected area.",
+    "side_effects": "May cause mild gastric irritation in sensitive individuals."
+  },
+  {
+    "id": 465,
+    "name": "Laghu Malini VAsant",
+    "category": "Ayurvedic medicine",
+    "uses": "Supports urinary health and kidney function.",
+    "timing": "Apply externally twice daily on the affected area.",
+    "side_effects": "Not recommended for children without medical advice."
+  },
+  {
+    "id": 466,
+    "name": "Laghvanand",
+    "category": "Ayurvedic medicine",
+    "uses": "Effective in treating skin diseases and detoxification.",
+    "timing": "Apply externally twice daily on the affected area.",
+    "side_effects": "Not recommended for children without medical advice."
+  },
+  {
+    "id": 467,
+    "name": "Laxminarayan",
+    "category": "Ayurvedic medicine",
+    "uses": "Supports urinary health and kidney function.",
+    "timing": "As directed by an Ayurvedic physician.",
+    "side_effects": "Not recommended for children without medical advice."
+  },
+  {
+    "id": 468,
+    "name": "Laxmivilas (Naridiya)",
+    "category": "Ayurvedic medicine",
+    "uses": "Strengthens the nervous system and boosts memory.",
+    "timing": "As directed by an Ayurvedic physician.",
+    "side_effects": "Avoid during pregnancy and lactation unless prescribed."
+  },
+  {
+    "id": 469,
+    "name": "Loknath",
+    "category": "Ayurvedic medicine",
+    "uses": "Supports urinary health and kidney function.",
+    "timing": "5-10 grams with warm water or milk, once or twice daily.",
+    "side_effects": "Not recommended for children without medical advice."
+  },
+  {
+    "id": 470,
+    "name": "Mahakalganjakush",
+    "category": "Ayurvedic medicine",
+    "uses": "Effective in treating skin diseases and detoxification.",
+    "timing": "As directed by an Ayurvedic physician.",
+    "side_effects": "Excessive use may cause loose stools."
+  },
+  {
+    "id": 471,
+    "name": "Mahalakhimi vilas",
+    "category": "Ayurvedic medicine",
+    "uses": "Improves strength and stamina; rejuvenates body tissues.",
+    "timing": "1-2 tablets twice daily after meals with water.",
+    "side_effects": "Generally safe when used as prescribed."
+  },
+  {
+    "id": 472,
+    "name": "Manas Mitra Vatak",
+    "category": "Ayurvedic medicine",
+    "uses": "Used for liver detoxification and improving liver function.",
+    "timing": "Apply externally twice daily on the affected area.",
+    "side_effects": "Not recommended for children without medical advice."
+  },
+  {
+    "id": 473,
+    "name": "Mritunjaya",
+    "category": "Ayurvedic medicine",
+    "uses": "Used for liver detoxification and improving liver function.",
+    "timing": "Apply externally twice daily on the affected area.",
+    "side_effects": "Avoid during pregnancy and lactation unless prescribed."
+  },
+  {
+    "id": 474,
+    "name": "Muktapanchamrita",
+    "category": "Ayurvedic medicine",
+    "uses": "Used in the treatment of piles and constipation.",
+    "timing": "10-20 ml with equal quantity of water, twice daily after meals.",
+    "side_effects": "May cause mild gastric irritation in sensitive individuals."
+  },
+  {
+    "id": 475,
+    "name": "Nagavallabha",
+    "category": "Ayurvedic medicine",
+    "uses": "Supports urinary health and kidney function.",
+    "timing": "1-2 tablets twice daily after meals with water.",
+    "side_effects": "May cause mild gastric irritation in sensitive individuals."
+  },
+  {
+    "id": 476,
+    "name": "Navratnaranbhagank",
+    "category": "Ayurvedic medicine",
+    "uses": "Supports urinary health and kidney function.",
+    "timing": "As directed by an Ayurvedic physician.",
+    "side_effects": "Avoid during pregnancy and lactation unless prescribed."
+  },
+  {
+    "id": 477,
+    "name": "Prabhakar",
+    "category": "Ayurvedic medicine",
+    "uses": "Used in the treatment of piles and constipation.",
+    "timing": "1-2 tablets twice daily after meals with water.",
+    "side_effects": "Avoid during pregnancy and lactation unless prescribed."
+  },
+  {
+    "id": 478,
+    "name": "Rajmrigank",
+    "category": "Ayurvedic medicine",
+    "uses": "Strengthens the nervous system and boosts memory.",
+    "timing": "5-10 grams with warm water or milk, once or twice daily.",
+    "side_effects": "Excessive use may cause loose stools."
+  },
+  {
+    "id": 479,
+    "name": "Rasamanikya",
+    "category": "Ayurvedic medicine",
+    "uses": "Supports urinary health and kidney function.",
+    "timing": "1-2 tablets twice daily after meals with water.",
+    "side_effects": "May cause mild gastric irritation in sensitive individuals."
+  },
+  {
+    "id": 480,
+    "name": "Rasraja",
+    "category": "Ayurvedic medicine",
+    "uses": "Supports urinary health and kidney function.",
+    "timing": "10-20 ml with equal quantity of water, twice daily after meals.",
+    "side_effects": "Avoid during pregnancy and lactation unless prescribed."
+  },
+  {
+    "id": 481,
+    "name": "Ratnagiri",
+    "category": "Ayurvedic medicine",
+    "uses": "Strengthens the nervous system and boosts memory.",
+    "timing": "10-20 ml with equal quantity of water, twice daily after meals.",
+    "side_effects": "Not recommended for children without medical advice."
+  },
+  {
+    "id": 482,
+    "name": "Sameerpannag",
+    "category": "Ayurvedic medicine",
+    "uses": "Used to treat anemia and improve blood formation.",
+    "timing": "10-20 ml with equal quantity of water, twice daily after meals.",
+    "side_effects": "Excessive use may cause loose stools."
+  },
+  {
+    "id": 483,
+    "name": "Srinripati Ballabh",
+    "category": "Ayurvedic medicine",
+    "uses": "Strengthens the nervous system and boosts memory.",
+    "timing": "10-20 ml with equal quantity of water, twice daily after meals.",
+    "side_effects": "Avoid during pregnancy and lactation unless prescribed."
+  },
+  {
+    "id": 484,
+    "name": "Shirhshooladivajra",
+    "category": "Ayurvedic medicine",
+    "uses": "Effective in treating skin diseases and detoxification.",
+    "timing": "5-10 grams with warm water or milk, once or twice daily.",
+    "side_effects": "Not recommended for children without medical advice."
+  },
+  {
+    "id": 485,
+    "name": "Sidhapraneshwar",
+    "category": "Ayurvedic medicine",
+    "uses": "Helps manage respiratory disorders and cough.",
+    "timing": "Apply externally twice daily on the affected area.",
+    "side_effects": "Not recommended for children without medical advice."
+  },
+  {
+    "id": 486,
+    "name": "Sootshekhar (Swarna Rahit)",
+    "category": "Ayurvedic medicine",
+    "uses": "Helps manage respiratory disorders and cough.",
+    "timing": "10-20 ml with equal quantity of water, twice daily after meals.",
+    "side_effects": "Excessive use may cause loose stools."
+  },
+  {
+    "id": 487,
+    "name": "Suchikabharan",
+    "category": "Ayurvedic medicine",
+    "uses": "Supports digestion and improves appetite.",
+    "timing": "As directed by an Ayurvedic physician.",
+    "side_effects": "Avoid during pregnancy and lactation unless prescribed."
+  },
+  {
+    "id": 488,
+    "name": "Sutikabharan",
+    "category": "Ayurvedic medicine",
+    "uses": "Helps manage respiratory disorders and cough.",
+    "timing": "Apply externally twice daily on the affected area.",
+    "side_effects": "Not recommended for children without medical advice."
+  },
+  {
+    "id": 489,
+    "name": "Swaskuthar",
+    "category": "Ayurvedic medicine",
+    "uses": "Supports urinary health and kidney function.",
+    "timing": "5-10 grams with warm water or milk, once or twice daily.",
+    "side_effects": "May cause mild gastric irritation in sensitive individuals."
+  },
+  {
+    "id": 490,
+    "name": "Swarnabhupati",
+    "category": "Ayurvedic medicine",
+    "uses": "Used for liver detoxification and improving liver function.",
+    "timing": "5-10 grams with warm water or milk, once or twice daily.",
+    "side_effects": "Not recommended for children without medical advice."
+  },
+  {
+    "id": 491,
+    "name": "Tarunark",
+    "category": "Ayurvedic medicine",
+    "uses": "Helps in managing fever and body aches.",
+    "timing": "1-2 tablets twice daily after meals with water.",
+    "side_effects": "Avoid during pregnancy and lactation unless prescribed."
+  },
+  {
+    "id": 492,
+    "name": "Tribhuvankirti",
+    "category": "Ayurvedic medicine",
+    "uses": "Supports digestion and improves appetite.",
+    "timing": "As directed by an Ayurvedic physician.",
+    "side_effects": "Not recommended for children without medical advice."
+  },
+  {
+    "id": 493,
+    "name": "Varishoshan",
+    "category": "Ayurvedic medicine",
+    "uses": "Helps manage respiratory disorders and cough.",
+    "timing": "As directed by an Ayurvedic physician.",
+    "side_effects": "Avoid during pregnancy and lactation unless prescribed."
+  },
+  {
+    "id": 494,
+    "name": "Vataki",
+    "category": "Ayurvedic medicine",
+    "uses": "Supports digestion and improves appetite.",
+    "timing": "1-2 tablets twice daily after meals with water.",
+    "side_effects": "Avoid during pregnancy and lactation unless prescribed."
+  },
+  {
+    "id": 495,
+    "name": "Vatkulantak",
+    "category": "Ayurvedic medicine",
+    "uses": "Strengthens the nervous system and boosts memory.",
+    "timing": "1-2 tablets twice daily after meals with water.",
+    "side_effects": "Generally safe when used as prescribed."
+  },
+  {
+    "id": 496,
+    "name": "Vatraktantak",
+    "category": "Ayurvedic medicine",
+    "uses": "Supports urinary health and kidney function.",
+    "timing": "10-20 ml with equal quantity of water, twice daily after meals.",
+    "side_effects": "Excessive use may cause loose stools."
+  },
+  {
+    "id": 497,
+    "name": "Vatraktantak",
+    "category": "Ayurvedic medicine",
+    "uses": "Strengthens the nervous system and boosts memory.",
+    "timing": "5-10 grams with warm water or milk, once or twice daily.",
+    "side_effects": "Generally safe when used as prescribed."
+  },
+  {
+    "id": 498,
+    "name": "Vatvidhvanshak",
+    "category": "Ayurvedic medicine",
+    "uses": "Used to treat anemia and improve blood formation.",
+    "timing": "5-10 grams with warm water or milk, once or twice daily.",
+    "side_effects": "Avoid during pregnancy and lactation unless prescribed."
+  },
+  {
+    "id": 499,
+    "name": "Yogendra",
+    "category": "Ayurvedic medicine",
+    "uses": "Used to treat anemia and improve blood formation.",
+    "timing": "10-20 ml with equal quantity of water, twice daily after meals.",
+    "side_effects": "Generally safe when used as prescribed."
+  },
+  {
+    "id": 500,
+    "name": "Kaminivindravan Rasa",
+    "category": "Ayurvedic medicine",
+    "uses": "Used in the treatment of piles and constipation.",
+    "timing": "1-2 tablets twice daily after meals with water.",
+    "side_effects": "May cause mild gastric irritation in sensitive individuals."
+  },
+  {
+    "id": 501,
+    "name": "Krimikuthara Rasa",
+    "category": "Ayurvedic medicine",
+    "uses": "Strengthens the nervous system and boosts memory.",
+    "timing": "10-20 ml with equal quantity of water, twice daily after meals.",
+    "side_effects": "May cause mild gastric irritation in sensitive individuals."
+  },
+  {
+    "id": 502,
+    "name": "Br. Yakradari",
+    "category": "Ayurvedic medicine",
+    "uses": "Supports urinary health and kidney function.",
+    "timing": "1-2 tablets twice daily after meals with water.",
+    "side_effects": "Excessive use may cause loose stools."
+  },
+  {
+    "id": 503,
+    "name": "Chandanadi",
+    "category": "Ayurvedic medicine",
+    "uses": "Used to treat anemia and improve blood formation.",
+    "timing": "1-2 tablets twice daily after meals with water.",
+    "side_effects": "Avoid during pregnancy and lactation unless prescribed."
+  },
+  {
+    "id": 504,
+    "name": "Dhatri",
+    "category": "Ayurvedic medicine",
+    "uses": "Supports urinary health and kidney function.",
+    "timing": "5-10 grams with warm water or milk, once or twice daily.",
+    "side_effects": "Excessive use may cause loose stools."
+  },
+  {
+    "id": 505,
+    "name": "Navayas",
+    "category": "Ayurvedic medicine",
+    "uses": "Supports digestion and improves appetite.",
+    "timing": "5-10 grams with warm water or milk, once or twice daily.",
+    "side_effects": "Avoid during pregnancy and lactation unless prescribed."
+  },
+  {
+    "id": 506,
+    "name": "Pippalyadi",
+    "category": "Ayurvedic medicine",
+    "uses": "Helps in managing fever and body aches.",
+    "timing": "As directed by an Ayurvedic physician.",
+    "side_effects": "Excessive use may cause loose stools."
+  },
+  {
+    "id": 507,
+    "name": "Pradantak",
+    "category": "Ayurvedic medicine",
+    "uses": "Supports urinary health and kidney function.",
+    "timing": "Apply externally twice daily on the affected area.",
+    "side_effects": "Generally safe when used as prescribed."
+  },
+  {
+    "id": 508,
+    "name": "Pradaradi",
+    "category": "Ayurvedic medicine",
+    "uses": "Improves strength and stamina; rejuvenates body tissues.",
+    "timing": "1-2 tablets twice daily after meals with water.",
+    "side_effects": "Not recommended for children without medical advice."
+  },
+  {
+    "id": 509,
+    "name": "Putpak visham (jvarantak)",
+    "category": "Ayurvedic medicine",
+    "uses": "Supports urinary health and kidney function.",
+    "timing": "10-20 ml with equal quantity of water, twice daily after meals.",
+    "side_effects": "Excessive use may cause loose stools."
+  },
+  {
+    "id": 510,
+    "name": "Rohitak",
+    "category": "Ayurvedic medicine",
+    "uses": "Helps manage respiratory disorders and cough.",
+    "timing": "1-2 tablets twice daily after meals with water.",
+    "side_effects": "Generally safe when used as prescribed."
+  },
+  {
+    "id": 511,
+    "name": "Saptamrita",
+    "category": "Ayurvedic medicine",
+    "uses": "Used to treat anemia and improve blood formation.",
+    "timing": "Apply externally twice daily on the affected area.",
+    "side_effects": "May cause mild gastric irritation in sensitive individuals."
+  },
+  {
+    "id": 512,
+    "name": "Sarvajwahar",
+    "category": "Ayurvedic medicine",
+    "uses": "Supports digestion and improves appetite.",
+    "timing": "As directed by an Ayurvedic physician.",
+    "side_effects": "Avoid during pregnancy and lactation unless prescribed."
+  },
+  {
+    "id": 513,
+    "name": "Shilajatvadi",
+    "category": "Ayurvedic medicine",
+    "uses": "Helps manage respiratory disorders and cough.",
+    "timing": "10-20 ml with equal quantity of water, twice daily after meals.",
+    "side_effects": "Not recommended for children without medical advice."
+  },
+  {
+    "id": 514,
+    "name": "Vidang",
+    "category": "Ayurvedic medicine",
+    "uses": "Helps in managing fever and body aches.",
+    "timing": "5-10 grams with warm water or milk, once or twice daily.",
+    "side_effects": "May cause mild gastric irritation in sensitive individuals."
+  },
+  {
+    "id": 515,
+    "name": "Vidangadi",
+    "category": "Ayurvedic medicine",
+    "uses": "Improves strength and stamina; rejuvenates body tissues.",
+    "timing": "5-10 grams with warm water or milk, once or twice daily.",
+    "side_effects": "Excessive use may cause loose stools."
+  },
+  {
+    "id": 516,
+    "name": "Yakridari",
+    "category": "Ayurvedic medicine",
+    "uses": "Supports digestion and improves appetite.",
+    "timing": "1-2 tablets twice daily after meals with water.",
+    "side_effects": "Generally safe when used as prescribed."
+  },
+  {
+    "id": 517,
+    "name": "Gokshuradi",
+    "category": "Ayurvedic medicine",
+    "uses": "Supports digestion and improves appetite.",
+    "timing": "1-2 tablets twice daily after meals with water.",
+    "side_effects": "Generally safe when used as prescribed."
+  },
+  {
+    "id": 518,
+    "name": "Kaishora",
+    "category": "Ayurvedic medicine",
+    "uses": "Effective in treating skin diseases and detoxification.",
+    "timing": "1-2 tablets twice daily after meals with water.",
+    "side_effects": "Excessive use may cause loose stools."
+  },
+  {
+    "id": 519,
+    "name": "Kanchanar",
+    "category": "Ayurvedic medicine",
+    "uses": "Strengthens the nervous system and boosts memory.",
+    "timing": "5-10 grams with warm water or milk, once or twice daily.",
+    "side_effects": "Avoid during pregnancy and lactation unless prescribed."
+  },
+  {
+    "id": 520,
+    "name": "Laksha",
+    "category": "Ayurvedic medicine",
+    "uses": "Supports urinary health and kidney function.",
+    "timing": "10-20 ml with equal quantity of water, twice daily after meals.",
+    "side_effects": "Generally safe when used as prescribed."
+  },
+  {
+    "id": 521,
+    "name": "Mahayograj",
+    "category": "Ayurvedic medicine",
+    "uses": "Used in the treatment of piles and constipation.",
+    "timing": "5-10 grams with warm water or milk, once or twice daily.",
+    "side_effects": "Excessive use may cause loose stools."
+  },
+  {
+    "id": 522,
+    "name": "Punarnavadi",
+    "category": "Ayurvedic medicine",
+    "uses": "Improves strength and stamina; rejuvenates body tissues.",
+    "timing": "10-20 ml with equal quantity of water, twice daily after meals.",
+    "side_effects": "Not recommended for children without medical advice."
+  },
+  {
+    "id": 523,
+    "name": "Saptavinshatik",
+    "category": "Ayurvedic medicine",
+    "uses": "Effective in treating skin diseases and detoxification.",
+    "timing": "5-10 grams with warm water or milk, once or twice daily.",
+    "side_effects": "Excessive use may cause loose stools."
+  },
+  {
+    "id": 524,
+    "name": "Singhnad",
+    "category": "Ayurvedic medicine",
+    "uses": "Supports urinary health and kidney function.",
+    "timing": "As directed by an Ayurvedic physician.",
+    "side_effects": "Generally safe when used as prescribed."
+  },
+  {
+    "id": 525,
+    "name": "Triphala",
+    "category": "Ayurvedic medicine",
+    "uses": "Improves strength and stamina; rejuvenates body tissues.",
+    "timing": "1-2 tablets twice daily after meals with water.",
+    "side_effects": "Generally safe when used as prescribed."
+  },
+  {
+    "id": 526,
+    "name": "Triyodashang",
+    "category": "Ayurvedic medicine",
+    "uses": "Helps in managing fever and body aches.",
+    "timing": "Apply externally twice daily on the affected area.",
+    "side_effects": "Not recommended for children without medical advice."
+  },
+  {
+    "id": 527,
+    "name": "Vatari",
+    "category": "Ayurvedic medicine",
+    "uses": "Used to treat anemia and improve blood formation.",
+    "timing": "Apply externally twice daily on the affected area.",
+    "side_effects": "May cause mild gastric irritation in sensitive individuals."
+  },
+  {
+    "id": 528,
+    "name": "Vyoshadi",
+    "category": "Ayurvedic medicine",
+    "uses": "Supports digestion and improves appetite.",
+    "timing": "10-20 ml with equal quantity of water, twice daily after meals.",
+    "side_effects": "Avoid during pregnancy and lactation unless prescribed."
+  },
+  {
+    "id": 529,
+    "name": "Yograj",
+    "category": "Ayurvedic medicine",
+    "uses": "Helps manage respiratory disorders and cough.",
+    "timing": "As directed by an Ayurvedic physician.",
+    "side_effects": "Not recommended for children without medical advice."
+  },
+  {
+    "id": 530,
+    "name": "Kutaj Ghan",
+    "category": "Ayurvedic medicine",
+    "uses": "Improves strength and stamina; rejuvenates body tissues.",
+    "timing": "As directed by an Ayurvedic physician.",
+    "side_effects": "Generally safe when used as prescribed."
+  },
+  {
+    "id": 531,
+    "name": "Sudarshan Ghan",
+    "category": "Ayurvedic medicine",
+    "uses": "Used in the treatment of piles and constipation.",
+    "timing": "10-20 ml with equal quantity of water, twice daily after meals.",
+    "side_effects": "Generally safe when used as prescribed."
+  },
+  {
+    "id": 532,
+    "name": "Sarpagandhaghana Vati",
+    "category": "Ayurvedic medicine",
+    "uses": "Helps in managing fever and body aches.",
+    "timing": "Apply externally twice daily on the affected area.",
+    "side_effects": "Excessive use may cause loose stools."
+  },
+  {
+    "id": 533,
+    "name": "Pardadi",
+    "category": "Ayurvedic medicine",
+    "uses": "Used for liver detoxification and improving liver function.",
+    "timing": "As directed by an Ayurvedic physician.",
+    "side_effects": "May cause mild gastric irritation in sensitive individuals."
+  },
+  {
+    "id": 534,
+    "name": "Bhallatak sodhan",
+    "category": "Ayurvedic medicine",
+    "uses": "Helps in managing fever and body aches.",
+    "timing": "5-10 grams with warm water or milk, once or twice daily.",
+    "side_effects": "Avoid during pregnancy and lactation unless prescribed."
+  },
+  {
+    "id": 535,
+    "name": "Guggulu sodhan",
+    "category": "Ayurvedic medicine",
+    "uses": "Improves strength and stamina; rejuvenates body tissues.",
+    "timing": "Apply externally twice daily on the affected area.",
+    "side_effects": "Generally safe when used as prescribed."
+  },
+  {
+    "id": 536,
+    "name": "Hing sodhan",
+    "category": "Ayurvedic medicine",
+    "uses": "Used in the treatment of piles and constipation.",
+    "timing": "10-20 ml with equal quantity of water, twice daily after meals.",
+    "side_effects": "Avoid during pregnancy and lactation unless prescribed."
+  },
+  {
+    "id": 537,
+    "name": "Hingul sodhan",
+    "category": "Ayurvedic medicine",
+    "uses": "Helps manage respiratory disorders and cough.",
+    "timing": "As directed by an Ayurvedic physician.",
+    "side_effects": "Avoid during pregnancy and lactation unless prescribed."
+  },
+  {
+    "id": 538,
+    "name": "Kuchala sodhan",
+    "category": "Ayurvedic medicine",
+    "uses": "Strengthens the nervous system and boosts memory.",
+    "timing": "10-20 ml with equal quantity of water, twice daily after meals.",
+    "side_effects": "Excessive use may cause loose stools."
+  },
+  {
+    "id": 539,
+    "name": "Mandoor sodhan",
+    "category": "Ayurvedic medicine",
+    "uses": "Supports urinary health and kidney function.",
+    "timing": "Apply externally twice daily on the affected area.",
+    "side_effects": "May cause mild gastric irritation in sensitive individuals."
+  },
+  {
+    "id": 540,
+    "name": "Manhshila sodhan",
+    "category": "Ayurvedic medicine",
+    "uses": "Effective in treating skin diseases and detoxification.",
+    "timing": "1-2 tablets twice daily after meals with water.",
+    "side_effects": "Generally safe when used as prescribed."
+  },
+  {
+    "id": 541,
+    "name": "Nausadar",
+    "category": "Ayurvedic medicine",
+    "uses": "Used to treat anemia and improve blood formation.",
+    "timing": "5-10 grams with warm water or milk, once or twice daily.",
+    "side_effects": "May cause mild gastric irritation in sensitive individuals."
+  },
+  {
+    "id": 542,
+    "name": "Parad sodhan",
+    "category": "Ayurvedic medicine",
+    "uses": "Helps in managing fever and body aches.",
+    "timing": "As directed by an Ayurvedic physician.",
+    "side_effects": "Not recommended for children without medical advice."
+  },
+  {
+    "id": 543,
+    "name": "Suddha Gairik (Swarna Gairik)",
+    "category": "Ayurvedic medicine",
+    "uses": "Used to treat anemia and improve blood formation.",
+    "timing": "10-20 ml with equal quantity of water, twice daily after meals.",
+    "side_effects": "May cause mild gastric irritation in sensitive individuals."
+  },
+  {
+    "id": 544,
+    "name": "Suddha Gandhak",
+    "category": "Ayurvedic medicine",
+    "uses": "Supports urinary health and kidney function.",
+    "timing": "Apply externally twice daily on the affected area.",
+    "side_effects": "Excessive use may cause loose stools."
+  },
+  {
+    "id": 545,
+    "name": "Suddha Kampilak",
+    "category": "Ayurvedic medicine",
+    "uses": "Supports digestion and improves appetite.",
+    "timing": "As directed by an Ayurvedic physician.",
+    "side_effects": "May cause mild gastric irritation in sensitive individuals."
+  },
+  {
+    "id": 546,
+    "name": "Suddha Shilajeet",
+    "category": "Ayurvedic medicine",
+    "uses": "Used for liver detoxification and improving liver function.",
+    "timing": "As directed by an Ayurvedic physician.",
+    "side_effects": "May cause mild gastric irritation in sensitive individuals."
+  },
+  {
+    "id": 547,
+    "name": "Vatsatam sodhan",
+    "category": "Ayurvedic medicine",
+    "uses": "Improves strength and stamina; rejuvenates body tissues.",
+    "timing": "5-10 grams with warm water or milk, once or twice daily.",
+    "side_effects": "May cause mild gastric irritation in sensitive individuals."
+  },
+  {
+    "id": 548,
+    "name": "Gandhak Mishran",
+    "category": "Ayurvedic medicine",
+    "uses": "Strengthens the nervous system and boosts memory.",
+    "timing": "1-2 tablets twice daily after meals with water.",
+    "side_effects": "Generally safe when used as prescribed."
+  },
+  {
+    "id": 549,
+    "name": "Godanti Mishran",
+    "category": "Ayurvedic medicine",
+    "uses": "Effective in treating skin diseases and detoxification.",
+    "timing": "Apply externally twice daily on the affected area.",
+    "side_effects": "Not recommended for children without medical advice."
+  },
+  {
+    "id": 550,
+    "name": "Godanti pippalamool tablet",
+    "category": "Ayurvedic medicine",
+    "uses": "Effective in treating skin diseases and detoxification.",
+    "timing": "1-2 tablets twice daily after meals with water.",
+    "side_effects": "Not recommended for children without medical advice."
+  },
+  {
+    "id": 551,
+    "name": "Haritaqyadi tablet",
+    "category": "Ayurvedic medicine",
+    "uses": "Used in the treatment of piles and constipation.",
+    "timing": "1-2 tablets twice daily after meals with water.",
+    "side_effects": "Excessive use may cause loose stools."
+  },
+  {
+    "id": 552,
+    "name": "I.M.P.C.L.Cough Syrup",
+    "category": "Ayurvedic medicine",
+    "uses": "Used in the treatment of piles and constipation.",
+    "timing": "5-10 grams with warm water or milk, once or twice daily.",
+    "side_effects": "Generally safe when used as prescribed."
+  },
+  {
+    "id": 553,
+    "name": "I.M.P.C.L. Kesh kalp",
+    "category": "Ayurvedic medicine",
+    "uses": "Helps in managing fever and body aches.",
+    "timing": "As directed by an Ayurvedic physician.",
+    "side_effects": "Not recommended for children without medical advice."
+  },
+  {
+    "id": 554,
+    "name": "Kamdugha mishran",
+    "category": "Ayurvedic medicine",
+    "uses": "Supports urinary health and kidney function.",
+    "timing": "5-10 grams with warm water or milk, once or twice daily.",
+    "side_effects": "Avoid during pregnancy and lactation unless prescribed."
+  },
+  {
+    "id": 555,
+    "name": "Lavangadi taila",
+    "category": "Ayurvedic medicine",
+    "uses": "Supports urinary health and kidney function.",
+    "timing": "1-2 tablets twice daily after meals with water.",
+    "side_effects": "May cause mild gastric irritation in sensitive individuals."
+  },
+  {
+    "id": 556,
+    "name": "M.Brahmi Rasayan",
+    "category": "Ayurvedic medicine",
+    "uses": "Used to treat anemia and improve blood formation.",
+    "timing": "Apply externally twice daily on the affected area.",
+    "side_effects": "Avoid during pregnancy and lactation unless prescribed."
+  },
+  {
+    "id": 557,
+    "name": "M. Godanti Mishran",
+    "category": "Ayurvedic medicine",
+    "uses": "Used for liver detoxification and improving liver function.",
+    "timing": "5-10 grams with warm water or milk, once or twice daily.",
+    "side_effects": "Avoid during pregnancy and lactation unless prescribed."
+  },
+  {
+    "id": 558,
+    "name": "M.Kantakari Avaleha",
+    "category": "Ayurvedic medicine",
+    "uses": "Used for liver detoxification and improving liver function.",
+    "timing": "10-20 ml with equal quantity of water, twice daily after meals.",
+    "side_effects": "Excessive use may cause loose stools."
+  },
+  {
+    "id": 559,
+    "name": "M. Kutajavaleha",
+    "category": "Ayurvedic medicine",
+    "uses": "Used to treat anemia and improve blood formation.",
+    "timing": "As directed by an Ayurvedic physician.",
+    "side_effects": "Generally safe when used as prescribed."
+  },
+  {
+    "id": 560,
+    "name": "M. Lep Guti (Verti)",
+    "category": "Ayurvedic medicine",
+    "uses": "Helps in managing fever and body aches.",
+    "timing": "10-20 ml with equal quantity of water, twice daily after meals.",
+    "side_effects": "May cause mild gastric irritation in sensitive individuals."
+  },
+  {
+    "id": 561,
+    "name": "M. Liv Syrup",
+    "category": "Ayurvedic medicine",
+    "uses": "Improves strength and stamina; rejuvenates body tissues.",
+    "timing": "As directed by an Ayurvedic physician.",
+    "side_effects": "Avoid during pregnancy and lactation unless prescribed."
+  },
+  {
+    "id": 562,
+    "name": "M. Sarpagandha Mishran",
+    "category": "Ayurvedic medicine",
+    "uses": "Used to treat anemia and improve blood formation.",
+    "timing": "Apply externally twice daily on the affected area.",
+    "side_effects": "May cause mild gastric irritation in sensitive individuals."
+  },
+  {
+    "id": 563,
+    "name": "M. Shankhpushpi Syrup",
+    "category": "Ayurvedic medicine",
+    "uses": "Helps manage respiratory disorders and cough.",
+    "timing": "Apply externally twice daily on the affected area.",
+    "side_effects": "Not recommended for children without medical advice."
+  },
+  {
+    "id": 564,
+    "name": "M. Strong",
+    "category": "Ayurvedic medicine",
+    "uses": "Supports urinary health and kidney function.",
+    "timing": "As directed by an Ayurvedic physician.",
+    "side_effects": "Excessive use may cause loose stools."
+  },
+  {
+    "id": 565,
+    "name": "M. Sudarshan Ghan Vati",
+    "category": "Ayurvedic medicine",
+    "uses": "Used for liver detoxification and improving liver function.",
+    "timing": "10-20 ml with equal quantity of water, twice daily after meals.",
+    "side_effects": "Avoid during pregnancy and lactation unless prescribed."
+  },
+  {
+    "id": 566,
+    "name": "M. Swadishta Virechan Ch.",
+    "category": "Ayurvedic medicine",
+    "uses": "Supports urinary health and kidney function.",
+    "timing": "As directed by an Ayurvedic physician.",
+    "side_effects": "Excessive use may cause loose stools."
+  },
+  {
+    "id": 567,
+    "name": "M. Tribhuvan Mishran",
+    "category": "Ayurvedic medicine",
+    "uses": "Supports digestion and improves appetite.",
+    "timing": "Apply externally twice daily on the affected area.",
+    "side_effects": "Generally safe when used as prescribed."
+  },
+  {
+    "id": 568,
+    "name": "M. Vasaco Syrup",
+    "category": "Ayurvedic medicine",
+    "uses": "Used for liver detoxification and improving liver function.",
+    "timing": "As directed by an Ayurvedic physician.",
+    "side_effects": "Generally safe when used as prescribed."
+  },
+  {
+    "id": 569,
+    "name": "M. Liv Tablet",
+    "category": "Ayurvedic medicine",
+    "uses": "Used for liver detoxification and improving liver function.",
+    "timing": "10-20 ml with equal quantity of water, twice daily after meals.",
+    "side_effects": "Generally safe when used as prescribed."
+  },
+  {
+    "id": 570,
+    "name": "Nishan jal",
+    "category": "Ayurvedic medicine",
+    "uses": "Supports urinary health and kidney function.",
+    "timing": "10-20 ml with equal quantity of water, twice daily after meals.",
+    "side_effects": "Generally safe when used as prescribed."
+  },
+  {
+    "id": 571,
+    "name": "Prabhakar Mishran",
+    "category": "Ayurvedic medicine",
+    "uses": "Improves strength and stamina; rejuvenates body tissues.",
+    "timing": "1-2 tablets twice daily after meals with water.",
+    "side_effects": "Excessive use may cause loose stools."
+  },
+  {
+    "id": 572,
+    "name": "Sanjivani godanti",
+    "category": "Ayurvedic medicine",
+    "uses": "Effective in treating skin diseases and detoxification.",
+    "timing": "5-10 grams with warm water or milk, once or twice daily.",
+    "side_effects": "Excessive use may cause loose stools."
+  },
+  {
+    "id": 573,
+    "name": "Sarpagandha mishran",
+    "category": "Ayurvedic medicine",
+    "uses": "Used to treat anemia and improve blood formation.",
+    "timing": "Apply externally twice daily on the affected area.",
+    "side_effects": "Not recommended for children without medical advice."
+  },
+  {
+    "id": 574,
+    "name": "Shatavari mandoor Mishran",
+    "category": "Ayurvedic medicine",
+    "uses": "Supports digestion and improves appetite.",
+    "timing": "Apply externally twice daily on the affected area.",
+    "side_effects": "Generally safe when used as prescribed."
+  },
+  {
+    "id": 575,
+    "name": "Sitopaladi guti",
+    "category": "Ayurvedic medicine",
+    "uses": "Improves strength and stamina; rejuvenates body tissues.",
+    "timing": "5-10 grams with warm water or milk, once or twice daily.",
+    "side_effects": "Excessive use may cause loose stools."
+  },
+  {
+    "id": 576,
+    "name": "Sootsekhar shankha bhasma",
+    "category": "Ayurvedic medicine",
+    "uses": "Used to treat anemia and improve blood formation.",
+    "timing": "10-20 ml with equal quantity of water, twice daily after meals.",
+    "side_effects": "Generally safe when used as prescribed."
+  },
+  {
+    "id": 577,
+    "name": "Tribhuvan kirti godanti",
+    "category": "Ayurvedic medicine",
+    "uses": "Improves strength and stamina; rejuvenates body tissues.",
+    "timing": "As directed by an Ayurvedic physician.",
+    "side_effects": "Generally safe when used as prescribed."
+  },
+  {
+    "id": 578,
+    "name": "Tribhuvan mishran",
+    "category": "Ayurvedic medicine",
+    "uses": "Used for liver detoxification and improving liver function.",
+    "timing": "5-10 grams with warm water or milk, once or twice daily.",
+    "side_effects": "Generally safe when used as prescribed."
+  },
+  {
+    "id": 579,
+    "name": "Kajjali (dwiguna bhag)",
+    "category": "Ayurvedic medicine",
+    "uses": "Supports digestion and improves appetite.",
+    "timing": "As directed by an Ayurvedic physician.",
+    "side_effects": "Not recommended for children without medical advice."
+  },
+  {
+    "id": 580,
+    "name": "Kajjali (Samguna Bhag)",
+    "category": "Ayurvedic medicine",
+    "uses": "Used in the treatment of piles and constipation.",
+    "timing": "10-20 ml with equal quantity of water, twice daily after meals.",
+    "side_effects": "Generally safe when used as prescribed."
+  },
+  {
+    "id": 581,
+    "name": "Ayush-64",
+    "category": "Ayurvedic medicine",
+    "uses": "Helps manage respiratory disorders and cough.",
+    "timing": "Apply externally twice daily on the affected area.",
+    "side_effects": "Not recommended for children without medical advice."
+  },
+  {
+    "id": 582,
+    "name": "Ayush-BL OIL (Bala Taila)",
+    "category": "Ayurvedic medicine",
+    "uses": "Supports urinary health and kidney function.",
+    "timing": "Apply externally twice daily on the affected area.",
+    "side_effects": "Excessive use may cause loose stools."
+  },
+  {
+    "id": 583,
+    "name": "AYUSH PK Avaleha (Panchakola Avaleha)",
+    "category": "Ayurvedic medicine",
+    "uses": "Supports urinary health and kidney function.",
+    "timing": "As directed by an Ayurvedic physician.",
+    "side_effects": "Excessive use may cause loose stools."
+  },
+  {
+    "id": 584,
+    "name": "AYUSH BR Lehyam",
+    "category": "Ayurvedic medicine",
+    "uses": "Supports digestion and improves appetite.",
+    "timing": "1-2 tablets twice daily after meals with water.",
+    "side_effects": "Not recommended for children without medical advice."
+  },
+  {
+    "id": 585,
+    "name": "AYUSH ARK Pudina",
+    "category": "Ayurvedic medicine",
+    "uses": "Strengthens the nervous system and boosts memory.",
+    "timing": "Apply externally twice daily on the affected area.",
+    "side_effects": "Avoid during pregnancy and lactation unless prescribed."
+  },
+  {
+    "id": 586,
+    "name": "AYUSH SS Granules",
+    "category": "Ayurvedic medicine",
+    "uses": "Supports digestion and improves appetite.",
+    "timing": "As directed by an Ayurvedic physician.",
+    "side_effects": "Not recommended for children without medical advice."
+  },
+  {
+    "id": 587,
+    "name": "AYUSH KVM Syrup",
+    "category": "Ayurvedic medicine",
+    "uses": "Improves strength and stamina; rejuvenates body tissues.",
+    "timing": "As directed by an Ayurvedic physician.",
+    "side_effects": "Not recommended for children without medical advice."
+  },
+  {
+    "id": 588,
+    "name": "AYUSH SDM Tablet",
+    "category": "Ayurvedic medicine",
+    "uses": "Supports urinary health and kidney function.",
+    "timing": "1-2 tablets twice daily after meals with water.",
+    "side_effects": "Not recommended for children without medical advice."
+  },
+  {
+    "id": 589,
+    "name": "AYUSH BC Tablet",
+    "category": "Ayurvedic medicine",
+    "uses": "Improves strength and stamina; rejuvenates body tissues.",
+    "timing": "5-10 grams with warm water or milk, once or twice daily.",
+    "side_effects": "May cause mild gastric irritation in sensitive individuals."
+  },
+  {
+    "id": 590,
+    "name": "AYUSH LND Tablet",
+    "category": "Ayurvedic medicine",
+    "uses": "Improves strength and stamina; rejuvenates body tissues.",
+    "timing": "1-2 tablets twice daily after meals with water.",
+    "side_effects": "Excessive use may cause loose stools."
+  },
+  {
+    "id": 591,
+    "name": "AYUSH Bala Rasayana Tablet",
+    "category": "Ayurvedic medicine",
+    "uses": "Used to treat anemia and improve blood formation.",
+    "timing": "As directed by an Ayurvedic physician.",
+    "side_effects": "Excessive use may cause loose stools."
+  },
+  {
+    "id": 592,
+    "name": "AYUSH VRG Tablet",
+    "category": "Ayurvedic medicine",
+    "uses": "Effective in treating skin diseases and detoxification.",
+    "timing": "As directed by an Ayurvedic physician.",
+    "side_effects": "Generally safe when used as prescribed."
+  },
+  {
+    "id": 593,
+    "name": "Ayu Ojas",
+    "category": "Ayurvedic medicine",
+    "uses": "Improves strength and stamina; rejuvenates body tissues.",
+    "timing": "1-2 tablets twice daily after meals with water.",
+    "side_effects": "Avoid during pregnancy and lactation unless prescribed."
+  },
+  {
+    "id": 594,
+    "name": "Ksharasutra",
+    "category": "Ayurvedic medicine",
+    "uses": "Used for liver detoxification and improving liver function.",
+    "timing": "1-2 tablets twice daily after meals with water.",
+    "side_effects": "Generally safe when used as prescribed."
+  }
+]
